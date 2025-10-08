@@ -4,939 +4,1239 @@ Test your knowledge about Clan MacQuarrie! This quiz covers the history, culture
 
 ## Basic Clan Information
 
-#### 1. What does the name "MacQuarrie" mean?
+#### What does the name "MacQuarrie" mean?
 
-A) Son of the warrior
-B) Son of the proud one
-C) Son of the sea
-D) Son of the mountain
+<div class="upper-alpha" markdown>
+1. Son of the warrior
+2. Son of the proud one
+3. Son of the sea
+4. Son of the mountain
+</div>
 
-**Answer: B) Son of the proud one**
+??? question "Show Answer"
+    The correct answer is **2**. The name MacQuarrie comes from the Gaelic "Mac Guaire," which means "son of Guaire" or "son of the proud one." The personal name Guaire derives from an ancient Gaelic word meaning "noble" or "proud."
 
-#### 2. How many documented spelling variations are there of the name MacQuarrie?
+#### How many documented spelling variations are there of the name MacQuarrie?
 
-A) About 25
-B) About 50
-C) Over 100
-D) Over 200
+<div class="upper-alpha" markdown>
+1. About 25
+2. About 50
+3. Over 100
+4. Over 200
+</div>
 
-**Answer: C) Over 100**
+??? question "Show Answer"
+    The correct answer is **3**. There are over 100 documented spelling variations of MacQuarrie! Common ones include MacQuarrie, McQuarrie, MacQuarie, Quarry, and Wharrie. The spelling varied because the name was originally Gaelic and was written down by English-speaking clerks who spelled it phonetically.
 
-#### 3. Where did Clan MacQuarrie originate?
+#### Where did Clan MacQuarrie originate?
 
-A) The Scottish Lowlands
-B) The Isle of Skye
-C) The Isle of Ulva in the Inner Hebrides
-D) The Scottish mainland near Inverness
+<div class="upper-alpha" markdown>
+1. The Scottish Lowlands
+2. The Isle of Skye
+3. The Isle of Ulva in the Inner Hebrides
+4. The Scottish mainland near Inverness
+</div>
 
-**Answer: C) The Isle of Ulva in the Inner Hebrides**
+??? question "Show Answer"
+    The correct answer is **3**. Clan MacQuarrie originated in the Inner Hebrides of Scotland, specifically on the Isle of Ulva and surrounding islands off the west coast of Mull. They established themselves there around 1400 CE.
 
-#### 4. How many fighting men could Clan MacQuarrie field at their peak?
+#### How many fighting men could Clan MacQuarrie field at their peak?
 
-A) 50-75
-B) 150-200
-C) 500-600
-D) 1,000-1,500
+<div class="upper-alpha" markdown>
+1. 50-75
+2. 150-200
+3. 500-600
+4. 1,000-1,500
+</div>
 
-**Answer: B) 150-200**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarrie was a small clan. At their peak, they could probably field only 150-200 fighting men, compared to major clans like the Campbells who could field thousands. Their territory of Ulva was about 5,000 acres—tiny compared to mainland clan territories.
 
-#### 5. During which centuries was Clan MacQuarrie most powerful?
+#### During which centuries was Clan MacQuarrie most powerful?
 
-A) The 1300s and 1400s
-B) The 1500s and 1600s
-C) The 1700s and 1800s
-D) The 1800s and 1900s
+<div class="upper-alpha" markdown>
+1. The 1300s and 1400s
+2. The 1500s and 1600s
+3. The 1700s and 1800s
+4. The 1800s and 1900s
+</div>
 
-**Answer: B) The 1500s and 1600s**
+??? question "Show Answer"
+    The correct answer is **2**. Clan MacQuarrie was most powerful during the 1500s and 1600s, when they controlled Ulva and had strong alliances with Clan MacLean. They maintained independence for nearly 400 years until losing their lands in 1794.
 
 ## Clan Territory and Geography
 
-#### 6. How large is the Isle of Ulva?
+#### How large is the Isle of Ulva?
 
-A) About 1 mile long
-B) About 4.5 miles long and 2 miles wide
-C) About 10 miles long and 5 miles wide
-D) About 20 miles long
+<div class="upper-alpha" markdown>
+1. About 1 mile long
+2. About 4.5 miles long and 2 miles wide
+3. About 10 miles long and 5 miles wide
+4. About 20 miles long
+</div>
 
-**Answer: B) About 4.5 miles long and 2 miles wide**
+??? question "Show Answer"
+    The correct answer is **2**. Ulva is a small island about 4.5 miles long and 2 miles wide, located just off the west coast of Mull in Scotland's Inner Hebrides. It has rocky coastlines, rolling hills, moorland, and beautiful but harsh landscapes shaped by the Atlantic Ocean.
 
-#### 7. How do you get to Ulva today?
+#### How do you get to Ulva today?
 
-A) Drive directly—it's connected by a bridge
-B) Helicopter only
-C) Ferry to Mull, drive across Mull, then small ferry to Ulva
-D) Submarine tunnel
+<div class="upper-alpha" markdown>
+1. Drive directly—it's connected by a bridge
+2. Helicopter only
+3. Ferry to Mull, drive across Mull, then small ferry to Ulva
+4. Submarine tunnel
+</div>
 
-**Answer: C) Ferry to Mull, drive across Mull, then small ferry to Ulva**
+??? question "Show Answer"
+    The correct answer is **3**. You take a ferry from Oban to Mull (45 minutes), drive across Mull (45 minutes), then take a small passenger ferry across the narrow strait to Ulva (5 minutes). The small ferry only operates during daylight hours and in good weather.
 
-#### 8. Who owns Ulva now?
+#### Who owns Ulva now?
 
-A) The MacQuarrie clan
-B) The Scottish government
-C) Private owners
-D) The National Trust for Scotland
+<div class="upper-alpha" markdown>
+1. The MacQuarrie clan
+2. The Scottish government
+3. Private owners
+4. The National Trust for Scotland
+</div>
 
-**Answer: C) Private owners**
+??? question "Show Answer"
+    The correct answer is **3**. Ulva is privately owned. It's no longer owned by the MacQuarrie clan—they lost ownership in 1794. The current owners generally welcome heritage visitors to explore the island respectfully.
 
-#### 9. What was the peak population of Ulva in the late 1700s?
+#### What was the peak population of Ulva in the late 1700s?
 
-A) 100-150 people
-B) 300-400 people
-C) 600-850 people
-D) 1,500-2,000 people
+<div class="upper-alpha" markdown>
+1. 100-150 people
+2. 300-400 people
+3. 600-850 people
+4. 1,500-2,000 people
+</div>
 
-**Answer: C) 600-850 people**
+??? question "Show Answer"
+    The correct answer is **3**. Only about 5-10 people live permanently on Ulva today. At its peak in the late 1700s, the island supported 600-850 people. This dramatic population collapse happened due to the Highland Clearances.
 
-#### 10. Besides Ulva, what other island did the MacQuarries have influence over?
+#### Besides Ulva, what other island did the MacQuarries have influence over?
 
-A) The Isle of Skye
-B) Inch Kenneth
-C) The Isle of Iona
-D) The Isle of Lewis
+<div class="upper-alpha" markdown>
+1. The Isle of Skye
+2. Inch Kenneth
+3. The Isle of Iona
+4. The Isle of Lewis
+</div>
 
-**Answer: B) Inch Kenneth**
+??? question "Show Answer"
+    The correct answer is **2**. Besides Ulva, the MacQuarries had some lands on nearby Mull and possibly controlled or had influence over smaller nearby islands like Inch Kenneth. Their maritime territory included the waters around these islands.
 
 ## Clan History
 
-#### 11. When did Clan MacQuarrie lose their lands?
+#### When did Clan MacQuarrie lose their lands?
 
-A) 1746, immediately after Culloden
-B) 1794, when the chief sold Ulva
-C) 1850, during the height of the Clearances
-D) 1900, in the modern era
+<div class="upper-alpha" markdown>
+1. 1746, immediately after Culloden
+2. 1794, when the chief sold Ulva
+3. 1850, during the height of the Clearances
+4. 1900, in the modern era
+</div>
 
-**Answer: B) 1794, when the chief sold Ulva**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarrie chief was forced to sell Ulva in 1794 due to mounting debts. This ended nearly 400 years of MacQuarrie ownership of their ancestral homeland.
 
-#### 12. When was the Battle of Culloden fought?
+#### When was the Battle of Culloden fought?
 
-A) April 16, 1715
-B) April 16, 1745
-C) April 16, 1746
-D) April 16, 1794
+<div class="upper-alpha" markdown>
+1. April 16, 1715
+2. April 16, 1745
+3. April 16, 1746
+4. April 16, 1794
+</div>
 
-**Answer: C) April 16, 1746**
+??? question "Show Answer"
+    The correct answer is **3**. Culloden was the final battle of the 1745 Jacobite Rising, fought on April 16, 1746, near Inverness. The Jacobite Highland army was crushed by government forces. Chief Allan MacQuarrie fought there and died shortly after, marking a turning point for the clan.
 
-#### 13. Why did the MacQuarries support the Jacobites?
+#### Why did the MacQuarries support the Jacobites?
 
-A) They were paid by the French
-B) Highland values of loyalty, alliance with MacLeans, and resistance to government interference
-C) They wanted to conquer England
-D) Religious fanaticism only
+<div class="upper-alpha" markdown>
+1. They were paid by the French
+2. Highland values of loyalty, alliance with MacLeans, and resistance to government interference
+3. They wanted to conquer England
+4. Religious fanaticism only
+</div>
 
-**Answer: B) Highland values of loyalty, alliance with MacLeans, and resistance to government interference**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarries supported the Jacobite cause (trying to restore the Stuart monarchy) because of Highland cultural values emphasizing loyalty to the rightful king, their alliance with the pro-Jacobite MacLeans, and their resistance to government interference in Highland life.
 
-#### 14. What were the Highland Clearances?
+#### What were the Highland Clearances?
 
-A) A cleaning campaign for public health
-B) Forced evictions of tenant farmers to make way for sheep farming
-C) A military campaign to clear the Highlands of rebels
-D) A forestry program to clear trees
+<div class="upper-alpha" markdown>
+1. A cleaning campaign for public health
+2. Forced evictions of tenant farmers to make way for sheep farming
+3. A military campaign to clear the Highlands of rebels
+4. A forestry program to clear trees
+</div>
 
-**Answer: B) Forced evictions of tenant farmers to make way for sheep farming**
+??? question "Show Answer"
+    The correct answer is **2**. The Highland Clearances were a period from the 1760s to 1850s when landlords forcibly evicted tenant farmers from their lands to make way for more profitable sheep farming. Thousands of Highlanders, including many MacQuarries, were forced to emigrate.
 
-#### 15. Does Clan MacQuarrie have a recognized chief today?
+#### Does Clan MacQuarrie have a recognized chief today?
 
-A) Yes, descended directly from the ancient chiefs
-B) Yes, elected by clan members
-C) No, there is no recognized chief
-D) Yes, appointed by the Scottish government
+<div class="upper-alpha" markdown>
+1. Yes, descended directly from the ancient chiefs
+2. Yes, elected by clan members
+3. No, there is no recognized chief
+4. Yes, appointed by the Scottish government
+</div>
 
-**Answer: C) No, there is no recognized chief**
+??? question "Show Answer"
+    The correct answer is **3**. The 16th MacQuarrie chief was the last to own Ulva. He sold the island in 1794. After this, there's no clear record of the chiefship continuing, and today Clan MacQuarrie has no recognized chief.
 
-#### 16. What happened to Chief Allan MacQuarrie at Culloden?
+#### What happened to Chief Allan MacQuarrie at Culloden?
 
-A) He survived and fled to France
-B) He was captured and executed
-C) He died during or shortly after the battle
-D) He switched sides and survived
+<div class="upper-alpha" markdown>
+1. He survived and fled to France
+2. He was captured and executed
+3. He died during or shortly after the battle
+4. He switched sides and survived
+</div>
 
-**Answer: C) He died during or shortly after the battle**
+??? question "Show Answer"
+    The correct answer is **3**. Chief Allan MacQuarrie led his clansmen at the Battle of Culloden in 1746. He died either during the battle or shortly afterward from wounds or hardship. His death symbolized the end of the clan's military power and independence.
 
-#### 17. When were the MacQuarries firmly established on Ulva?
+#### When were the MacQuarries firmly established on Ulva?
 
-A) Around 1200 CE
-B) Around 1400 CE
-C) Around 1600 CE
-D) Around 1800 CE
+<div class="upper-alpha" markdown>
+1. Around 1200 CE
+2. Around 1400 CE
+3. Around 1600 CE
+4. Around 1800 CE
+</div>
 
-**Answer: B) Around 1400 CE**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarries were firmly established on Ulva by around 1400 CE. They may have been there earlier, but this is when historical records clearly show them as the recognized owners and rulers of the island.
 
-#### 18. When did the MacQuarries form their alliance with Clan MacLean?
+#### When did the MacQuarries form their alliance with Clan MacLean?
 
-A) 1400
-B) 1452
-C) 1500
-D) 1600
+<div class="upper-alpha" markdown>
+1. 1400
+2. 1452
+3. 1500
+4. 1600
+</div>
 
-**Answer: B) 1452**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarries formed a strong alliance with Clan MacLean of Duart in 1452. This relationship defined MacQuarrie history—when the MacLeans went to war, the MacQuarries fought alongside them. The alliance provided protection and political support for the smaller clan.
 
-#### 19. Which of these battles did the MacQuarries NOT fight in?
+#### Which of these battles did the MacQuarries NOT fight in?
 
-A) Battle of Glenlivet (1594)
-B) Battle of Bannockburn (1314)
-C) Battle of Sheriffmuir (1715)
-D) Battle of Prestonpans (1745)
+<div class="upper-alpha" markdown>
+1. Battle of Glenlivet (1594)
+2. Battle of Bannockburn (1314)
+3. Battle of Sheriffmuir (1715)
+4. Battle of Prestonpans (1745)
+</div>
 
-**Answer: B) Battle of Bannockburn (1314)**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarries fought at the Battle of Glenlivet (1594), Inverlochy and Kilsyth during the English Civil War (1644-1645), Sheriffmuir (1715), and Prestonpans (1745), among others. They were known as fierce warriors. However, the Battle of Bannockburn was fought in 1314, before the MacQuarries were established on Ulva.
 
-#### 20. What happened to most MacQuarries after losing Ulva?
+#### What happened to most MacQuarries after losing Ulva?
 
-A) They all moved to Edinburgh
-B) They stayed on Ulva as tenants
-C) They emigrated to Canada, Australia, New Zealand, and the United States
-D) They joined other Highland clans
+<div class="upper-alpha" markdown>
+1. They all moved to Edinburgh
+2. They stayed on Ulva as tenants
+3. They emigrated to Canada, Australia, New Zealand, and the United States
+4. They joined other Highland clans
+</div>
 
-**Answer: C) They emigrated to Canada, Australia, New Zealand, and the United States**
+??? question "Show Answer"
+    The correct answer is **3**. After losing Ulva in 1794, the clan scattered. Some remained in Scotland in poverty, but many emigrated to Canada, Australia, New Zealand, and the United States seeking better opportunities. The clan as an organized community essentially ended.
 
 ## Clan Symbols and Identity
 
-#### 21. What colors are in the MacQuarrie tartan?
+#### What colors are in the MacQuarrie tartan?
 
-A) Blue and white only
-B) Red, green, black, and yellow
-C) Purple and gold
-D) Orange and green
+<div class="upper-alpha" markdown>
+1. Blue and white only
+2. Red, green, black, and yellow
+3. Purple and gold
+4. Orange and green
+</div>
 
-**Answer: B) Red, green, black, and yellow**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarrie tartan is a pattern of red, green, black, and yellow lines creating a distinctive plaid. Like many clan tartans, the exact historical authenticity is debated, but it's recognized today as the official MacQuarrie pattern.
 
-#### 22. What is the MacQuarrie clan motto?
+#### What is the MacQuarrie clan motto?
 
-A) "Scotland Forever"
-B) "Victory or Death"
-C) "An t-Arm breac dearg" (The red tartaned army)
-D) "For King and Country"
+<div class="upper-alpha" markdown>
+1. "Scotland Forever"
+2. "Victory or Death"
+3. "An t-Arm breac dearg" (The red tartaned army)
+4. "For King and Country"
+</div>
 
-**Answer: C) "An t-Arm breac dearg" (The red tartaned army)**
+??? question "Show Answer"
+    The correct answer is **3**. The MacQuarrie clan motto is "An t-Arm breac dearg," which is Gaelic for "The red tartaned army." This refers to the distinctive appearance of MacQuarrie warriors in their clan colors.
 
-#### 23. What is the clan plant badge?
+#### What is the clan plant badge?
 
-A) Heather
-B) Thistle
-C) Oak
-D) Pine
+<div class="upper-alpha" markdown>
+1. Heather
+2. Thistle
+3. Oak
+4. Pine
+</div>
 
-**Answer: D) Pine**
+??? question "Show Answer"
+    The correct answer is **4**. The traditional MacQuarrie plant badge is pine, though some sources mention other plants. Clan members would wear sprigs of pine in their bonnets at gatherings as a recognition symbol.
 
-#### 24. Who can wear the MacQuarrie tartan?
+#### Who can wear the MacQuarrie tartan?
 
-A) Only the chief
-B) Only people born in Scotland
-C) Generally anyone with MacQuarrie ancestry
-D) No one—it's been banned
+<div class="upper-alpha" markdown>
+1. Only the chief
+2. Only people born in Scotland
+3. Generally anyone with MacQuarrie ancestry
+4. No one—it's been banned
+</div>
 
-**Answer: C) Generally anyone with MacQuarrie ancestry**
+??? question "Show Answer"
+    The correct answer is **3**. Generally, anyone with MacQuarrie ancestry can wear the tartan. Some people believe tartans should only be worn by clan members, while others see them as celebratory of Scottish heritage generally. If you have MacQuarrie ancestry, you're certainly entitled to wear it.
 
-#### 25. Who can use the full MacQuarrie coat of arms?
+#### Who can use the full MacQuarrie coat of arms?
 
-A) Anyone with MacQuarrie ancestry
-B) Only the chief
-C) Anyone who pays a fee
-D) Only Scottish citizens
+<div class="upper-alpha" markdown>
+1. Anyone with MacQuarrie ancestry
+2. Only the chief
+3. Anyone who pays a fee
+4. Only Scottish citizens
+</div>
 
-**Answer: B) Only the chief**
+??? question "Show Answer"
+    The correct answer is **2**. The MacQuarrie coat of arms features heraldic symbols associated with the clan. However, technically only the chief can use the full coat of arms. Clan members can use the clan crest badge, which shows the clan symbol.
 
 ## Daily Life and Culture
 
-#### 26. What language did the MacQuarries speak?
+#### What language did the MacQuarries speak?
 
-A) English only
-B) French
-C) Scottish Gaelic
-D) Norwegian
+<div class="upper-alpha" markdown>
+1. English only
+2. French
+3. Scottish Gaelic
+4. Norwegian
+</div>
 
-**Answer: C) Scottish Gaelic**
+??? question "Show Answer"
+    The correct answer is **3**. The MacQuarries spoke Scottish Gaelic as their everyday language. Some chiefs and educated clan members might also have spoken English or Scots, especially for dealings with the government, but Gaelic was the language of home and community.
 
-#### 27. What was a staple food for the MacQuarries?
+#### What was a staple food for the MacQuarries?
 
-A) Rice and beans
-B) Oats (as porridge and bannocks)
-C) Pasta
-D) Corn
+<div class="upper-alpha" markdown>
+1. Rice and beans
+2. Oats (as porridge and bannocks)
+3. Pasta
+4. Corn
+</div>
 
-**Answer: B) Oats (as porridge and bannocks)**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarries ate oats (as porridge and bannocks), barley, fish (fresh and preserved), shellfish, dairy products (milk, butter, cheese), occasional meat from cattle or sheep, seaweed, and wild plants. The diet was simple but nutritious, though monotonous by modern standards.
 
-#### 28. What were traditional MacQuarrie houses called?
+#### What were traditional MacQuarrie houses called?
 
-A) Castles
-B) Manors
-C) Blackhouses
-D) Longhouses
+<div class="upper-alpha" markdown>
+1. Castles
+2. Manors
+3. Blackhouses
+4. Longhouses
+</div>
 
-**Answer: C) Blackhouses**
+??? question "Show Answer"
+    The correct answer is **3**. Most MacQuarries lived in blackhouses—low stone cottages with thick walls, small windows, and thatched roofs. Families often shared these one-room dwellings with their animals during winter for warmth. The chief's residence was larger but still modest by modern standards.
 
-#### 29. What was the primary form of wealth in the Highland economy?
+#### What was the primary form of wealth in the Highland economy?
 
-A) Gold coins
-B) Cattle
-C) Whisky
-D) Fish
+<div class="upper-alpha" markdown>
+1. Gold coins
+2. Cattle
+3. Whisky
+4. Fish
+</div>
 
-**Answer: B) Cattle**
+??? question "Show Answer"
+    The correct answer is **2**. Cattle were central to Highland life—providing milk, meat, leather, and serving as portable wealth and currency. A clan's prosperity was measured partly in cattle. Cattle raids between clans were common, both for economic gain and to prove courage.
 
-#### 30. What was the clan system?
+#### What was the clan system?
 
-A) A democratic government
-B) An extended family group led by a chief
-C) A military dictatorship
-D) A religious organization
+<div class="upper-alpha" markdown>
+1. A democratic government
+2. An extended family group led by a chief
+3. A military dictatorship
+4. A religious organization
+</div>
 
-**Answer: B) An extended family group led by a chief**
+??? question "Show Answer"
+    The correct answer is **2**. The clan system was the social organization of Highland Scotland. A clan was an extended family group led by a chief, with tacksmen (gentry) below him and ordinary clansmen at the base. Everyone owed loyalty to the chief, who acted as both military leader and father figure.
 
-#### 31. What role did women play in the clan?
+#### What role did women play in the clan?
 
-A) They were forbidden from all public activities
-B) They managed households, worked in agriculture, and maintained cultural traditions
-C) They served only as warriors
-D) They had no role at all
+<div class="upper-alpha" markdown>
+1. They were forbidden from all public activities
+2. They managed households, worked in agriculture, and maintained cultural traditions
+3. They served only as warriors
+4. They had no role at all
+</div>
 
-**Answer: B) They managed households, worked in agriculture, and maintained cultural traditions**
+??? question "Show Answer"
+    The correct answer is **2**. Highland women managed households, worked in agriculture, maintained cultural traditions through storytelling and song, and sometimes exercised political influence. They had more independence than women in many other European societies of the time, though they couldn't typically be warriors or chiefs.
 
-#### 32. What special skills did MacQuarries have due to their island location?
+#### What special skills did MacQuarries have due to their island location?
 
-A) Mountain climbing
-B) Sailing and fishing
-C) Desert survival
-D) Horse breeding
+<div class="upper-alpha" markdown>
+1. Mountain climbing
+2. Sailing and fishing
+3. Desert survival
+4. Horse breeding
+</div>
 
-**Answer: B) Sailing and fishing**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarries were skilled sailors and fishermen due to their island location. They were also known as fierce warriors and practiced traditional Highland fighting techniques. Like most islanders, they were expert at surviving in harsh maritime conditions.
 
-#### 33. What did a typical day involve for a MacQuarrie clan member?
+#### What did a typical day involve for a MacQuarrie clan member?
 
-A) Mostly leisure and entertainment
-B) Physical labor: farming, livestock care, fishing, and maintenance
-C) Military training only
-D) Court ceremonies
+<div class="upper-alpha" markdown>
+1. Mostly leisure and entertainment
+2. Physical labor: farming, livestock care, fishing, and maintenance
+3. Military training only
+4. Court ceremonies
+</div>
 
-**Answer: B) Physical labor: farming, livestock care, fishing, and maintenance**
+??? question "Show Answer"
+    The correct answer is **2**. Days centered on survival work: farming (planting, weeding, harvesting), caring for livestock, fishing, gathering seaweed for fertilizer, cutting peat for fuel, maintaining buildings and tools, spinning wool, and preparing food. Life was physically demanding with little leisure time.
 
-#### 34. What did MacQuarries do for entertainment?
+#### What did MacQuarries do for entertainment?
 
-A) Watch television
-B) Music, storytelling, dancing, and athletic competitions
-C) Read novels
-D) Play video games
+<div class="upper-alpha" markdown>
+1. Watch television
+2. Music, storytelling, dancing, and athletic competitions
+3. Read novels
+4. Play video games
+</div>
 
-**Answer: B) Music, storytelling, dancing, and athletic competitions**
+??? question "Show Answer"
+    The correct answer is **2**. Entertainment included music (bagpipes, singing), storytelling, dancing at gatherings, athletic competitions (running, wrestling, stone-throwing), and communal feasts when resources allowed. Long winter nights were spent telling stories that preserved clan history.
 
-#### 35. What musical instrument is most associated with Highland culture?
+#### What musical instrument is most associated with Highland culture?
 
-A) Piano
-B) Violin only
-C) Bagpipes
-D) Guitar
+<div class="upper-alpha" markdown>
+1. Piano
+2. Violin only
+3. Bagpipes
+4. Guitar
+</div>
 
-**Answer: C) Bagpipes**
+??? question "Show Answer"
+    The correct answer is **3**. MacQuarries had piping music (bagpipes), singing (work songs, ballads, laments), and possibly fiddle music. Music accompanied work, celebrations, mourning, and warfare. Songs in Gaelic preserved clan history and cultural traditions.
 
 ## Genealogy and Research
 
-#### 36. How can you find out if you're related to Clan MacQuarrie?
+#### How can you find out if you're related to Clan MacQuarrie?
 
-A) Just guess based on your last name
-B) Research your family tree, check for surname variants, and consider DNA testing
-C) Call the Queen of England
-D) It's impossible to know
+<div class="upper-alpha" markdown>
+1. Just guess based on your last name
+2. Research your family tree, check for surname variants, and consider DNA testing
+3. Call the Queen of England
+4. It's impossible to know
+</div>
 
-**Answer: B) Research your family tree, check for surname variants, and consider DNA testing**
+??? question "Show Answer"
+    The correct answer is **2**. Start by researching your family tree back through your parents, grandparents, and great-grandparents. Look for surnames that are MacQuarrie variants. Check if your ancestors came from Scotland, especially the Hebrides. Consider DNA testing to find genetic connections.
 
-#### 37. Which of these is a common MacQuarrie surname variant?
+#### Which of these is a common MacQuarrie surname variant?
 
-A) Smith
-B) Quarry
-C) Johnson
-D) Williams
+<div class="upper-alpha" markdown>
+1. Smith
+2. Quarry
+3. Johnson
+4. Williams
+</div>
 
-**Answer: B) Quarry**
+??? question "Show Answer"
+    The correct answer is **2**. The most common variants include MacQuarrie, MacQuarie, McQuarrie, McQuarie, Quarry, MacWharrie, Wharrie, Corry, Gurr, and MacGuire. But there are over 100 documented spellings, some very different from the original.
 
-#### 38. What is a good starting resource for researching MacQuarrie ancestry?
+#### What is a good starting resource for researching MacQuarrie ancestry?
 
-A) Facebook only
-B) Scotland's People (scotlandspeople.gov.uk)
-C) The local phone book
-D) Wikipedia only
+<div class="upper-alpha" markdown>
+1. Facebook only
+2. Scotland's People (scotlandspeople.gov.uk)
+3. The local phone book
+4. Wikipedia only
+</div>
 
-**Answer: B) Scotland's People (scotlandspeople.gov.uk)**
+??? question "Show Answer"
+    The correct answer is **2**. Start with Scotland's People (scotlandspeople.gov.uk) for Scottish records, Ancestry.com and FamilySearch.org for international records, and the National Records of Scotland for in-depth research. The Clan MacQuarrie Society can also help connect you with other researchers.
 
-#### 39. What type of DNA test is most useful for surname research?
+#### What type of DNA test is most useful for surname research?
 
-A) Blood type testing
-B) Y-DNA testing (for males tracing paternal line)
-C) Fingerprint analysis
-D) Hair follicle testing
+<div class="upper-alpha" markdown>
+1. Blood type testing
+2. Y-DNA testing (for males tracing paternal line)
+3. Fingerprint analysis
+4. Hair follicle testing
+</div>
 
-**Answer: B) Y-DNA testing (for males tracing paternal line)**
+??? question "Show Answer"
+    The correct answer is **2**. DNA testing can be very helpful, especially Y-DNA testing for males tracing the paternal line. Autosomal DNA tests (like Ancestry DNA) help find living relatives who might share research. Combine DNA testing with traditional genealogical research for best results.
 
-#### 40. Are all people named MacQuarrie definitely related?
+#### Are all people named MacQuarrie definitely related?
 
-A) Yes, absolutely all of them
-B) No, some may have adopted the name through different routes
-C) Only if they're from Scotland
-D) Only if they live in the same town
+<div class="upper-alpha" markdown>
+1. Yes, absolutely all of them
+2. No, some may have adopted the name through different routes
+3. Only if they're from Scotland
+4. Only if they live in the same town
+</div>
 
-**Answer: B) No, some may have adopted the name through different routes**
+??? question "Show Answer"
+    The correct answer is **2**. Not necessarily. While many MacQuarries descend from the Ulva chiefs, some people adopted the name through different routes—affiliated families who took the clan name, or unrelated families with similar-sounding names. DNA testing can help determine actual genetic relationships.
 
 ## The Jacobite Period
 
-#### 41. What were the Jacobite Risings?
+#### What were the Jacobite Risings?
 
-A) Rebellions to restore the Stuart family to the British throne
-B) Religious crusades to the Holy Land
-C) Labor union strikes
-D) Agricultural reforms
+<div class="upper-alpha" markdown>
+1. Rebellions to restore the Stuart family to the British throne
+2. Religious crusades to the Holy Land
+3. Labor union strikes
+4. Agricultural reforms
+</div>
 
-**Answer: A) Rebellions to restore the Stuart family to the British throne**
+??? question "Show Answer"
+    The correct answer is **1**. The Jacobite Risings were rebellions attempting to restore the Stuart family to the British throne. The main risings were in 1715 and 1745. Many Highland clans, including the MacQuarries, supported these rebellions because they valued loyalty to what they saw as the rightful royal line.
 
-#### 42. Who was "Bonnie Prince Charlie"?
+#### Who was "Bonnie Prince Charlie"?
 
-A) A fictional character
-B) Charles Edward Stuart, leader of the 1745 Jacobite Rising
-C) A famous Scottish poet
-D) The King of France
+<div class="upper-alpha" markdown>
+1. A fictional character
+2. Charles Edward Stuart, leader of the 1745 Jacobite Rising
+3. A famous Scottish poet
+4. The King of France
+</div>
 
-**Answer: B) Charles Edward Stuart, leader of the 1745 Jacobite Rising**
+??? question "Show Answer"
+    The correct answer is **2**. "Bonnie Prince Charlie" was Charles Edward Stuart (1720-1788), grandson of the deposed King James VII. He led the 1745 Jacobite Rising, landing in Scotland and rallying Highland clans to his cause. After defeat at Culloden, he fled to France.
 
-#### 43. Why did the Jacobites lose at Culloden?
+#### Why did the Jacobites lose at Culloden?
 
-A) They didn't have enough swords
-B) Poor battlefield choice, exhausted troops, and superior government tactics
-C) They changed their minds
-D) It rained too much
+<div class="upper-alpha" markdown>
+1. They didn't have enough swords
+2. Poor battlefield choice, exhausted troops, and superior government tactics
+3. They changed their minds
+4. It rained too much
+</div>
 
-**Answer: B) Poor battlefield choice, exhausted troops, and superior government tactics**
+??? question "Show Answer"
+    The correct answer is **2**. The Jacobites lost due to poor choice of battlefield (open moorland favored government artillery), exhausted and hungry troops, superior government tactics designed specifically to counter Highland fighting style, and better-equipped government forces.
 
-#### 44. What happened to Highlanders after Culloden?
+#### What happened to Highlanders after Culloden?
 
-A) They were given rewards
-B) Nothing changed
-C) The government systematically destroyed the clan system through laws and persecution
-D) They were invited to London for celebrations
+<div class="upper-alpha" markdown>
+1. They were given rewards
+2. Nothing changed
+3. The government systematically destroyed the clan system through laws and persecution
+4. They were invited to London for celebrations
+</div>
 
-**Answer: C) The government systematically destroyed the clan system through laws and persecution**
+??? question "Show Answer"
+    The correct answer is **3**. The government hunted down survivors, executed many, imprisoned others, and passed laws banning Highland dress, weapons, and the chiefs' legal powers. The traditional clan system was systematically destroyed, leading to massive cultural and social change.
 
-#### 45. Did any MacQuarries survive Culloden?
+#### Did any MacQuarries survive Culloden?
 
-A) No, all were killed
-B) Yes, some survived but returned to a changed world
-C) None fought in the battle
-D) Only women survived
+<div class="upper-alpha" markdown>
+1. No, all were killed
+2. Yes, some survived but returned to a changed world
+3. None fought in the battle
+4. Only women survived
+</div>
 
-**Answer: B) Yes, some survived but returned to a changed world**
+??? question "Show Answer"
+    The correct answer is **2**. Yes, though Chief Allan MacQuarrie died. Some clansmen survived and returned to Ulva, but they faced a changed world where the clan system was being destroyed and economic pressures were mounting.
 
 ## Famous MacQuarries
 
-#### 46. Who was Lachlan Macquarie?
+#### Who was Lachlan Macquarie?
 
-A) The last chief of Clan MacQuarrie
-B) A famous Scottish poet
-C) Governor of New South Wales, Australia, called the "Father of Australia"
-D) A Hollywood actor
+<div class="upper-alpha" markdown>
+1. The last chief of Clan MacQuarrie
+2. A famous Scottish poet
+3. Governor of New South Wales, Australia, called the "Father of Australia"
+4. A Hollywood actor
+</div>
 
-**Answer: C) Governor of New South Wales, Australia, called the "Father of Australia"**
+??? question "Show Answer"
+    The correct answer is **3**. Lachlan Macquarie (1762-1824) was born on Ulva to a tacksman family. He became a British Army officer and was appointed Governor of New South Wales, Australia (1810-1821). He transformed Australia from a penal colony into a developing society and is called the "Father of Australia."
 
-#### 47. Why is Lachlan Macquarie important to Australia?
+#### Why is Lachlan Macquarie important to Australia?
 
-A) He discovered Australia
-B) He transformed it from a penal colony into a developing society
-C) He invented Australian football
-D) He was the first Australian prime minister
+<div class="upper-alpha" markdown>
+1. He discovered Australia
+2. He transformed it from a penal colony into a developing society
+3. He invented Australian football
+4. He was the first Australian prime minister
+</div>
 
-**Answer: B) He transformed it from a penal colony into a developing society**
+??? question "Show Answer"
+    The correct answer is **2**. As governor, Macquarie believed former convicts could become productive citizens. He gave them land, appointed some to government positions, built infrastructure (roads, towns, hospitals, schools), and designed Sydney's street plan. His progressive policies shaped modern Australia.
 
-#### 48. What is named after Lachlan Macquarie in Australia?
+#### What is named after Lachlan Macquarie in Australia?
 
-A) Nothing—he's been forgotten
-B) Only one small street
-C) Macquarie University, Macquarie Island, Macquarie River, Port Macquarie, and more
-D) Just Macquarie Island
+<div class="upper-alpha" markdown>
+1. Nothing—he's been forgotten
+2. Only one small street
+3. Macquarie University, Macquarie Island, Macquarie River, Port Macquarie, and more
+4. Just Macquarie Island
+</div>
 
-**Answer: C) Macquarie University, Macquarie Island, Macquarie River, Port Macquarie, and more**
+??? question "Show Answer"
+    The correct answer is **3**. In Australia: Macquarie University, Macquarie Island, the Macquarie River, Port Macquarie, and many streets and buildings. His name is everywhere in Australian geography and institutions.
 
-#### 49. Were there other famous MacQuarries besides Lachlan?
+#### Were there other famous MacQuarries besides Lachlan?
 
-A) Yes, hundreds of world leaders
-B) No, he was the only one
-C) Various descendants achieved success, but none reached Lachlan's significance
-D) Yes, several US presidents
+<div class="upper-alpha" markdown>
+1. Yes, hundreds of world leaders
+2. No, he was the only one
+3. Various descendants achieved success, but none reached Lachlan's significance
+4. Yes, several US presidents
+</div>
 
-**Answer: C) Various descendants achieved success, but none reached Lachlan's significance**
+??? question "Show Answer"
+    The correct answer is **3**. While Lachlan is by far the most famous, various MacQuarrie descendants achieved success in their adopted countries as farmers, businesspeople, soldiers, and community leaders. But none reached Lachlan's level of historical significance.
 
-#### 50. Where did Lachlan Macquarie die?
+#### Where did Lachlan Macquarie die?
 
-A) On Ulva
-B) In Sydney, Australia
-C) In London
-D) In battle in Scotland
+<div class="upper-alpha" markdown>
+1. On Ulva
+2. In Sydney, Australia
+3. In London
+4. In battle in Scotland
+</div>
 
-**Answer: C) In London**
+??? question "Show Answer"
+    The correct answer is **3**. Lachlan visited Scotland after his Australian service but spent most of his later life in London. He died in London in 1824. While he maintained connections to Scotland, his life's work was in Australia, far from his clan's homeland.
 
 ## MacQuarrie Diaspora
 
-#### 51. Where did MacQuarries primarily emigrate to?
+#### Where did MacQuarries primarily emigrate to?
 
-A) Europe only
-B) Canada, Australia, New Zealand, and the United States
-C) Asia
-D) South America only
+<div class="upper-alpha" markdown>
+1. Europe only
+2. Canada, Australia, New Zealand, and the United States
+3. Asia
+4. South America only
+</div>
 
-**Answer: B) Canada, Australia, New Zealand, and the United States**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarries emigrated primarily to Canada (especially Nova Scotia), Australia, New Zealand, and the United States. These destinations offered land and opportunities that Scotland could no longer provide after the loss of Ulva and the Highland Clearances.
 
-#### 52. When did most MacQuarries leave Scotland?
+#### When did most MacQuarries leave Scotland?
 
-A) In the 1500s
-B) In waves: 1790s, 1830s-1850s, and early 1900s
-C) All in one year: 1746
-D) Most never left
+<div class="upper-alpha" markdown>
+1. In the 1500s
+2. In waves: 1790s, 1830s-1850s, and early 1900s
+3. All in one year: 1746
+4. Most never left
+</div>
 
-**Answer: B) In waves: 1790s, 1830s-1850s, and early 1900s**
+??? question "Show Answer"
+    The correct answer is **2**. Major emigration occurred in waves: the 1790s after Ulva's sale, the 1830s-1850s during the Highland Clearances and potato famine, and continuing into the early 1900s as economic opportunities in Scotland remained limited.
 
-#### 53. How did MacQuarries maintain their identity after emigrating?
+#### How did MacQuarries maintain their identity after emigrating?
 
-A) They didn't—they forgot everything
-B) Through clan societies, Highland Games, preserving stories, and genealogical research
-C) By building exact replicas of Ulva
-D) Only through wearing tartan
+<div class="upper-alpha" markdown>
+1. They didn't—they forgot everything
+2. Through clan societies, Highland Games, preserving stories, and genealogical research
+3. By building exact replicas of Ulva
+4. Only through wearing tartan
+</div>
 
-**Answer: B) Through clan societies, Highland Games, preserving stories, and genealogical research**
+??? question "Show Answer"
+    The correct answer is **2**. Emigrants maintained identity through clan societies, gathering at Highland Games, preserving Gaelic songs and stories, passing down family histories, and later through genealogical research and DNA testing that connected dispersed descendants.
 
-#### 54. Are there MacQuarrie clan societies today?
+#### Are there MacQuarrie clan societies today?
 
-A) No, they all disbanded
-B) Yes, including the Clan MacQuarrie Society and regional associations
-C) Only in Scotland
-D) Only online
+<div class="upper-alpha" markdown>
+1. No, they all disbanded
+2. Yes, including the Clan MacQuarrie Society and regional associations
+3. Only in Scotland
+4. Only online
+</div>
 
-**Answer: B) Yes, including the Clan MacQuarrie Society and regional associations**
+??? question "Show Answer"
+    The correct answer is **2**. Yes! The Clan MacQuarrie Society and various regional MacQuarrie family associations bring descendants together, preserve clan history, organize gatherings, and maintain connections between MacQuarries worldwide.
 
-#### 55. Approximately how many MacQuarrie descendants exist today?
+#### Approximately how many MacQuarrie descendants exist today?
 
-A) About 100
-B) About 1,000
-C) Likely tens of thousands worldwide
-D) Millions
+<div class="upper-alpha" markdown>
+1. About 100
+2. About 1,000
+3. Likely tens of thousands worldwide
+4. Millions
+</div>
 
-**Answer: C) Likely tens of thousands worldwide**
+??? question "Show Answer"
+    The correct answer is **3**. It's impossible to know exactly, but there are likely tens of thousands of people worldwide with MacQuarrie ancestry. Many don't know about their connection because the name changed or family history was lost over generations.
 
 ## Clan Warfare and Military History
 
-#### 56. What weapons did MacQuarrie warriors use?
+#### What weapons did MacQuarrie warriors use?
 
-A) Machine guns
-B) Claymore swords, dirks, targes, and muskets
-C) Cannons only
-D) Crossbows
+<div class="upper-alpha" markdown>
+1. Machine guns
+2. Claymore swords, dirks, targes, and muskets
+3. Cannons only
+4. Crossbows
+</div>
 
-**Answer: B) Claymore swords, dirks, targes, and muskets**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarrie warriors used traditional Highland weapons: the claymore (large two-handed sword), dirk (long dagger), targe (small round shield), and later muskets. Some might have used bows or spears in earlier periods.
 
-#### 57. What was the Highland charge?
+#### What was the Highland charge?
 
-A) A fee for staying in the Highlands
-B) A terrifying battle tactic of rushing forward with swords and shields
-C) A dance move
-D) A type of horse
+<div class="upper-alpha" markdown>
+1. A fee for staying in the Highlands
+2. A terrifying battle tactic of rushing forward with swords and shields
+3. A dance move
+4. A type of horse
+</div>
 
-**Answer: B) A terrifying battle tactic of rushing forward with swords and shields**
+??? question "Show Answer"
+    The correct answer is **2**. The Highland charge was a terrifying battle tactic where warriors rushed forward in a screaming mass, firing muskets once, then attacking with swords and shields. It often broke enemy lines through shock and speed, but failed at Culloden against prepared government forces.
 
-#### 58. How were MacQuarrie warriors trained?
+#### How were MacQuarrie warriors trained?
 
-A) In military academies
-B) Informally but constantly through practice and daily physical labor
-C) They weren't trained
-D) By watching videos
+<div class="upper-alpha" markdown>
+1. In military academies
+2. Informally but constantly through practice and daily physical labor
+3. They weren't trained
+4. By watching videos
+</div>
 
-**Answer: B) Informally but constantly through practice and daily physical labor**
+??? question "Show Answer"
+    The correct answer is **2**. Training was informal but constant. Young men practiced fighting skills, learned from veterans, and developed strength through daily physical labor. The culture valued martial prowess, and men were expected to be ready to fight when the chief called.
 
-#### 59. What was a clan war cry called in Gaelic?
+#### What was a clan war cry called in Gaelic?
 
-A) A shout
-B) A slogan
-C) A yell
-D) A scream
+<div class="upper-alpha" markdown>
+1. A shout
+2. A slogan
+3. A yell
+4. A scream
+</div>
 
-**Answer: B) A slogan**
+??? question "Show Answer"
+    The correct answer is **2**. Many clans had war cries (called "slogans" in Gaelic), though specific MacQuarrie war cries aren't well-documented in surviving records. These cries served to identify your side in the confusion of battle and intimidate enemies.
 
-#### 60. Were there MacQuarrie women warriors?
+#### Were there MacQuarrie women warriors?
 
-A) Yes, most warriors were women
-B) Highland warfare was almost exclusively male
-C) Only after 1800
-D) Yes, but only in naval battles
+<div class="upper-alpha" markdown>
+1. Yes, most warriors were women
+2. Highland warfare was almost exclusively male
+3. Only after 1800
+4. Yes, but only in naval battles
+</div>
 
-**Answer: B) Highland warfare was almost exclusively male**
+??? question "Show Answer"
+    The correct answer is **2**. Highland warfare was almost exclusively male. Women supported warfare through maintaining the home economy while men fought, but didn't typically serve as fighters themselves. However, women could be fierce defenders of their homes if necessary.
 
 ## Clan Culture and Traditions
 
-#### 61. What language family does Scottish Gaelic belong to?
+#### What language family does Scottish Gaelic belong to?
 
-A) Germanic
-B) Romance
-C) Celtic
-D) Slavic
+<div class="upper-alpha" markdown>
+1. Germanic
+2. Romance
+3. Celtic
+4. Slavic
+</div>
 
-**Answer: C) Celtic**
+??? question "Show Answer"
+    The correct answer is **3**. Scottish Gaelic is a Celtic language related to Irish Gaelic but distinct from it. It has sounds that don't exist in English, intricate grammar, and rich vocabulary for landscape, weather, and social relationships. Today it's endangered, spoken by about 58,000 people.
 
-#### 62. What happened to the Gaelic language after Culloden?
+#### What happened to the Gaelic language after Culloden?
 
-A) It became the official language of Scotland
-B) It was actively suppressed by the government
-C) Nothing changed
-D) It spread throughout Britain
+<div class="upper-alpha" markdown>
+1. It became the official language of Scotland
+2. It was actively suppressed by the government
+3. Nothing changed
+4. It spread throughout Britain
+</div>
 
-**Answer: B) It was actively suppressed by the government**
+??? question "Show Answer"
+    The correct answer is **2**. After Culloden, the government actively suppressed Gaelic through education policies, punishing children for speaking it, and conducting all government business in English. Within a few generations, English became dominant even in Highland areas.
 
-#### 63. What are Highland Games?
+#### What are Highland Games?
 
-A) Video game tournaments
-B) Athletic competitions, music, and dancing celebrating Scottish heritage
-C) Board games
-D) Casino gambling
+<div class="upper-alpha" markdown>
+1. Video game tournaments
+2. Athletic competitions, music, and dancing celebrating Scottish heritage
+3. Board games
+4. Casino gambling
+</div>
 
-**Answer: B) Athletic competitions, music, and dancing celebrating Scottish heritage**
+??? question "Show Answer"
+    The correct answer is **2**. Highland Games evolved from traditional clan gatherings that included athletic competitions (running, jumping, throwing heavy stones, tossing cabers), music, dancing, and socializing. Modern Highland Games preserve these traditions and celebrate Scottish heritage.
 
-#### 64. How do you pronounce "ceilidh"?
+#### How do you pronounce "ceilidh"?
 
-A) SEE-lid
-B) KAY-lee
-C) KYE-lick
-D) SELL-ee
+<div class="upper-alpha" markdown>
+1. SEE-lid
+2. KAY-lee
+3. KYE-lick
+4. SELL-ee
+</div>
 
-**Answer: B) KAY-lee**
+??? question "Show Answer"
+    The correct answer is **2**. A ceilidh (pronounced "KAY-lee") is a traditional Scottish social gathering featuring folk music, storytelling, and dancing. Modern ceilidhs continue this tradition, with live music and group dances that anyone can join.
 
-#### 65. What did clan gatherings include?
+#### What did clan gatherings include?
 
-A) Only religious services
-B) Feasting, music, dancing, storytelling, athletic competitions, and clan business
-C) Silent meditation only
-D) Just eating
+<div class="upper-alpha" markdown>
+1. Only religious services
+2. Feasting, music, dancing, storytelling, athletic competitions, and clan business
+3. Silent meditation only
+4. Just eating
+</div>
 
-**Answer: B) Feasting, music, dancing, storytelling, athletic competitions, and clan business**
+??? question "Show Answer"
+    The correct answer is **2**. Clan gatherings brought the community together for important occasions—celebrations, funerals, making decisions, or preparing for war. They featured feasting (when resources allowed), music, dancing, storytelling, athletic competitions, and discussion of clan business.
 
 ## Religion and Beliefs
 
-#### 66. What religion were the MacQuarries before 1560?
+#### What religion were the MacQuarries before 1560?
 
-A) Buddhist
-B) Muslim
-C) Catholic
-D) Baptist
+<div class="upper-alpha" markdown>
+1. Buddhist
+2. Muslim
+3. Catholic
+4. Baptist
+</div>
 
-**Answer: C) Catholic**
+??? question "Show Answer"
+    The correct answer is **3**. MacQuarries were Catholic before Scotland's Reformation in 1560, after which Scotland became officially Protestant. Highland clans adapted more slowly than Lowland areas, and religious tensions influenced clan politics for centuries.
 
-#### 67. Did MacQuarries believe in supernatural beings?
+#### Did MacQuarries believe in supernatural beings?
 
-A) No, they were pure rationalists
-B) Yes, they believed in fairies, kelpies, selkies, and spirits
-C) Only on Tuesdays
-D) This is unknown
+<div class="upper-alpha" markdown>
+1. No, they were pure rationalists
+2. Yes, they believed in fairies, kelpies, selkies, and spirits
+3. Only on Tuesdays
+4. This is unknown
+</div>
 
-**Answer: B) Yes, they believed in fairies, kelpies, selkies, and spirits**
+??? question "Show Answer"
+    The correct answer is **2**. Like most Highland people, MacQuarries likely believed in supernatural beings—fairies, water horses (kelpies), selkies (seal people), and spirits inhabiting natural features. These beliefs were part of Celtic traditional culture, existing alongside Christian faith.
 
-#### 68. What role did religion play in Jacobite conflicts?
+#### What role did religion play in Jacobite conflicts?
 
-A) None at all
-B) It was the only factor
-C) Complex—Stuart cause had Catholic sympathies, but loyalty and cultural preservation often mattered more
-D) It determined everything
+<div class="upper-alpha" markdown>
+1. None at all
+2. It was the only factor
+3. Complex—Stuart cause had Catholic sympathies, but loyalty and cultural preservation often mattered more
+4. It determined everything
+</div>
 
-**Answer: C) Complex—Stuart cause had Catholic sympathies, but loyalty and cultural preservation often mattered more**
+??? question "Show Answer"
+    The correct answer is **3**. Religion was complex in Jacobite conflicts. The Stuart cause had Catholic sympathies, while the government was Protestant. However, not all Jacobites were Catholic, and not all Catholics supported the Jacobites. For many Highlanders, loyalty and cultural preservation mattered more than religion.
 
-#### 69. What church served the clan on Ulva?
+#### What church served the clan on Ulva?
 
-A) St. Peter's Cathedral
-B) Kildavie Church
-C) Westminster Abbey
-D) Glasgow Cathedral
+<div class="upper-alpha" markdown>
+1. St. Peter's Cathedral
+2. Kildavie Church
+3. Westminster Abbey
+4. Glasgow Cathedral
+</div>
 
-**Answer: B) Kildavie Church**
+??? question "Show Answer"
+    The correct answer is **2**. Kildavie Church on Ulva served the clan for centuries. The ruins still stand today and the adjacent burial ground holds MacQuarrie graves. It was the spiritual center of clan life.
 
-#### 70. What burial custom was important to MacQuarries?
+#### What burial custom was important to MacQuarries?
 
-A) Cremation was required
-B) Being buried with ancestors in clan burial grounds
-C) Burial at sea was mandatory
-D) No particular customs
+<div class="upper-alpha" markdown>
+1. Cremation was required
+2. Being buried with ancestors in clan burial grounds
+3. Burial at sea was mandatory
+4. No particular customs
+</div>
 
-**Answer: B) Being buried with ancestors in clan burial grounds**
+??? question "Show Answer"
+    The correct answer is **2**. Death was marked with elaborate customs—wakes where the community stayed with the body, storytelling about the deceased, and ceremonial burial. Being buried with your ancestors in clan burial grounds was important for maintaining connection across generations.
 
 ## Environmental and Geographic Questions
 
-#### 71. What is Ulva's climate like?
+#### What is Ulva's climate like?
 
-A) Hot and dry
-B) Tropical
-C) Cool, wet, and maritime with frequent wind
-D) Arctic
+<div class="upper-alpha" markdown>
+1. Hot and dry
+2. Tropical
+3. Cool, wet, and maritime with frequent wind
+4. Arctic
+</div>
 
-**Answer: C) Cool, wet, and maritime with frequent wind**
+??? question "Show Answer"
+    The correct answer is **3**. Ulva has a cool, wet maritime climate. Winters are mild but damp and windy, with temperatures rarely below freezing. Summers are cool (55-65°F), often cloudy, with frequent rain. The weather changes rapidly and wind is constant.
 
-#### 72. What animals can you find on and around Ulva?
+#### What animals can you find on and around Ulva?
 
-A) Lions and elephants
-B) Seabirds, seals, otters, red deer, and fish
-C) Polar bears
-D) Kangaroos
+<div class="upper-alpha" markdown>
+1. Lions and elephants
+2. Seabirds, seals, otters, red deer, and fish
+3. Polar bears
+4. Kangaroos
+</div>
 
-**Answer: B) Seabirds, seals, otters, red deer, and fish**
+??? question "Show Answer"
+    The correct answer is **2**. Ulva had (and still has) seabirds, seals, otters, red deer, rabbits, and many smaller mammals and birds. The surrounding seas held fish, whales, dolphins, and porpoises. Domestic animals included cattle, sheep, goats, chickens, dogs, and cats.
 
-#### 73. What does the Ulva landscape look like?
+#### What does the Ulva landscape look like?
 
-A) Dense jungle
-B) Desert sand dunes
-C) Treeless moorland with heather, rocky coastlines, and rolling hills
-D) Flat prairie
+<div class="upper-alpha" markdown>
+1. Dense jungle
+2. Desert sand dunes
+3. Treeless moorland with heather, rocky coastlines, and rolling hills
+4. Flat prairie
+</div>
 
-**Answer: C) Treeless moorland with heather, rocky coastlines, and rolling hills**
+??? question "Show Answer"
+    The correct answer is **3**. The landscape was (and is) mostly treeless moorland covered in heather, grasses, and bog plants, with rocky coastlines, small patches of cultivated fields near settlements, and rolling hills rising to about 1,000 feet elevation.
 
-#### 74. Why weren't there many trees on Ulva?
+#### Why weren't there many trees on Ulva?
 
-A) Trees were illegal
-B) Millennia of human clearing, thin soils, and harsh maritime climate
-C) Volcanic eruptions destroyed them
-D) Disease killed them all
+<div class="upper-alpha" markdown>
+1. Trees were illegal
+2. Millennia of human clearing, thin soils, and harsh maritime climate
+3. Volcanic eruptions destroyed them
+4. Disease killed them all
+</div>
 
-**Answer: B) Millennia of human clearing, thin soils, and harsh maritime climate**
+??? question "Show Answer"
+    The correct answer is **2**. Scotland was once heavily forested, but millennia of human activity (clearing land for farming, cutting timber for fuel and building) removed most trees. Ulva's exposed position, thin soils, and maritime climate also make tree growth difficult.
 
-#### 75. What was a major environmental challenge on Ulva?
+#### What was a major environmental challenge on Ulva?
 
-A) Earthquakes
-B) Limited arable land, thin soils, Atlantic storms, and short growing seasons
-C) Tornadoes
-D) Hurricanes
+<div class="upper-alpha" markdown>
+1. Earthquakes
+2. Limited arable land, thin soils, Atlantic storms, and short growing seasons
+3. Tornadoes
+4. Hurricanes
+</div>
 
-**Answer: B) Limited arable land, thin soils, Atlantic storms, and short growing seasons**
+??? question "Show Answer"
+    The correct answer is **2**. Challenges included limited arable land, thin acidic soils requiring constant amendment, exposure to Atlantic storms, isolation (especially in winter), short growing seasons, frequent rain making food preservation difficult, and limited natural resources like timber.
 
 ## Economic History
 
-#### 76. What type of economy did the clan have?
+#### What type of economy did the clan have?
 
-A) Industrial manufacturing
-B) Subsistence agriculture, cattle raising, and fishing
-C) Banking and finance
-D) Technology sector
+<div class="upper-alpha" markdown>
+1. Industrial manufacturing
+2. Subsistence agriculture, cattle raising, and fishing
+3. Banking and finance
+4. Technology sector
+</div>
 
-**Answer: B) Subsistence agriculture, cattle raising, and fishing**
+??? question "Show Answer"
+    The correct answer is **2**. The clan economy was based on subsistence agriculture (growing food for consumption, not sale), raising cattle (the primary form of wealth), fishing, and some trade of surplus goods. Most clan members were poor by modern standards but could usually feed themselves.
 
-#### 77. What is kelp and why was it important?
+#### What is kelp and why was it important?
 
-A) A type of fish that was delicious
-B) Large brown seaweed processed to make ash for soap and glass making
-C) A type of Scottish bread
-D) A precious metal
+<div class="upper-alpha" markdown>
+1. A type of fish that was delicious
+2. Large brown seaweed processed to make ash for soap and glass making
+3. A type of Scottish bread
+4. A precious metal
+</div>
 
-**Answer: B) Large brown seaweed processed to make ash for soap and glass making**
+??? question "Show Answer"
+    The correct answer is **2**. Kelp is large brown seaweed. In the 18th and early 19th centuries, kelp was harvested, dried, and burned to produce ash rich in alkali salts used in making soap and glass. This briefly provided significant income for island communities.
 
-#### 78. Why did MacQuarrie chiefs go into debt?
+#### Why did MacQuarrie chiefs go into debt?
 
-A) Gambling addictions
-B) The traditional clan economy collapsed after Culloden
-C) They bought too many castles
-D) They invested poorly in stocks
+<div class="upper-alpha" markdown>
+1. Gambling addictions
+2. The traditional clan economy collapsed after Culloden
+3. They bought too many castles
+4. They invested poorly in stocks
+</div>
 
-**Answer: B) The traditional clan economy collapsed after Culloden**
+??? question "Show Answer"
+    The correct answer is **2**. After Culloden, the traditional clan economy collapsed. Chiefs lost their legal powers and became merely landlords. They couldn't compete economically with larger, more profitable estates. Many tried to maintain traditional hospitality while facing mounting expenses, leading to unsustainable debt.
 
-#### 79. What role did cattle play in the Highland economy?
+#### What role did cattle play in the Highland economy?
 
-A) None—they didn't have cattle
-B) They were the primary form of wealth, providing milk, meat, leather, and currency
-C) Only decorative purposes
-D) They were considered bad luck
+<div class="upper-alpha" markdown>
+1. None—they didn't have cattle
+2. They were the primary form of wealth, providing milk, meat, leather, and currency
+3. Only decorative purposes
+4. They were considered bad luck
+</div>
 
-**Answer: B) They were the primary form of wealth, providing milk, meat, leather, and currency**
+??? question "Show Answer"
+    The correct answer is **2**. Cattle were central to Highland life—providing milk, meat, leather, and serving as portable wealth and currency. A clan's prosperity was measured partly in cattle. Cattle raids between clans were common, both for economic gain and to prove courage.
 
-#### 80. What happened economically when the clan lost Ulva?
+#### What happened economically when the clan lost Ulva?
 
-A) They became wealthier
-B) The clan had no land base and ceased to exist as an economic unit
-C) Nothing changed
-D) They moved to a better economy
+<div class="upper-alpha" markdown>
+1. They became wealthier
+2. The clan had no land base and ceased to exist as an economic unit
+3. Nothing changed
+4. They moved to a better economy
+</div>
 
-**Answer: B) The clan had no land base and ceased to exist as an economic unit**
+??? question "Show Answer"
+    The correct answer is **2**. Losing Ulva meant the clan had no land base, no way to support clan members, and no economic foundation. The clan as an organized economic unit essentially ceased to exist, forcing individuals to find their own way as tenant farmers, emigrants, or laborers.
 
 ## Modern Heritage and Tourism
 
-#### 81. Can you visit Ulva today?
+#### Can you visit Ulva today?
 
-A) No, it's completely closed to visitors
-B) Yes, by ferry from Mull
-C) Only if you're royalty
-D) Only in winter
+<div class="upper-alpha" markdown>
+1. No, it's completely closed to visitors
+2. Yes, by ferry from Mull
+3. Only if you're royalty
+4. Only in winter
+</div>
 
-**Answer: B) Yes, by ferry from Mull**
+??? question "Show Answer"
+    The correct answer is **2**. Yes! Ulva is accessible by a small ferry from Mull. The island welcomes visitors to explore MacQuarrie historical sites, walk trails, and visit the Boathouse Visitor Centre. Be prepared for basic facilities and bring everything you need.
 
-#### 82. What will you see if you visit Ulva today?
+#### What will you see if you visit Ulva today?
 
-A) Modern cities and shopping malls
-B) Ruins of blackhouses, the chief's residence, Kildavie Church, and beautiful landscapes
-C) Theme parks
-D) Nothing—the island is empty
+<div class="upper-alpha" markdown>
+1. Modern cities and shopping malls
+2. Ruins of blackhouses, the chief's residence, Kildavie Church, and beautiful landscapes
+3. Theme parks
+4. Nothing—the island is empty
+</div>
 
-**Answer: B) Ruins of blackhouses, the chief's residence, Kildavie Church, and beautiful landscapes**
+??? question "Show Answer"
+    The correct answer is **2**. You'll see ruins of blackhouses where clan members lived, remains of the chief's residence, Kildavie Church and burial ground with MacQuarrie graves, beautiful landscapes, and wildlife. The island is mostly uninhabited but rich with history.
 
-#### 83. Is there a museum dedicated to Clan MacQuarrie?
+#### Is there a museum dedicated to Clan MacQuarrie?
 
-A) Yes, on Ulva
-B) Yes, in Edinburgh
-C) No specific MacQuarrie museum, but the National Museum of Scotland has Highland exhibits
-D) Yes, in America
+<div class="upper-alpha" markdown>
+1. Yes, on Ulva
+2. Yes, in Edinburgh
+3. No specific MacQuarrie museum, but the National Museum of Scotland has Highland exhibits
+4. Yes, in America
+</div>
 
-**Answer: C) No specific MacQuarrie museum, but the National Museum of Scotland has Highland exhibits**
+??? question "Show Answer"
+    The correct answer is **3**. There's no museum dedicated specifically to MacQuarries, but the National Museum of Scotland in Edinburgh has excellent exhibits on Highland life and clan history. The Ulva Visitor Centre has information about the island's history including the MacQuarrie period.
 
-#### 84. Do MacQuarrie clan gatherings still happen?
+#### Do MacQuarrie clan gatherings still happen?
 
-A) No, never
-B) Yes, clan societies organize gatherings including heritage tours
-C) Only once every 100 years
-D) Only in Australia
+<div class="upper-alpha" markdown>
+1. No, never
+2. Yes, clan societies organize gatherings including heritage tours
+3. Only once every 100 years
+4. Only in Australia
+</div>
 
-**Answer: B) Yes, clan societies organize gatherings including heritage tours**
+??? question "Show Answer"
+    The correct answer is **2**. Yes, various clan societies organize gatherings, sometimes including heritage tours to Scotland. These gatherings bring MacQuarrie descendants together from around the world to celebrate shared heritage.
 
-#### 85. How can you connect with other MacQuarrie descendants?
+#### How can you connect with other MacQuarrie descendants?
 
-A) It's impossible
-B) Join clan societies, attend Highland Games, use genealogy forums, and DNA testing
-C) Only through expensive private detectives
-D) Only if you live in Scotland
+<div class="upper-alpha" markdown>
+1. It's impossible
+2. Join clan societies, attend Highland Games, use genealogy forums, and DNA testing
+3. Only through expensive private detectives
+4. Only if you live in Scotland
+</div>
 
-**Answer: B) Join clan societies, attend Highland Games, use genealogy forums, and DNA testing**
+??? question "Show Answer"
+    The correct answer is **2**. Join the Clan MacQuarrie Society or regional MacQuarrie family associations, participate in online genealogy forums, attend Highland Games where clan tents gather, and use DNA testing services to find genetic relatives.
 
 ## Comparative Questions
 
-#### 86. How did Clan MacQuarrie compare to larger clans?
+#### How did Clan MacQuarrie compare to larger clans?
 
-A) They were exactly the same size
-B) Much smaller in territory and fighting men, but maintained independence through alliances
-C) They were actually the largest clan
-D) There were no other clans
+<div class="upper-alpha" markdown>
+1. They were exactly the same size
+2. Much smaller in territory and fighting men, but maintained independence through alliances
+3. They were actually the largest clan
+4. There were no other clans
+</div>
 
-**Answer: B) Much smaller in territory and fighting men, but maintained independence through alliances**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarrie was much smaller than clans like the Campbells, MacDonalds, or MacLeods. They controlled less territory, could field fewer warriors, and had less political influence. However, they maintained proud independence for centuries through strategic alliances.
 
-#### 87. Were there other small island clans like MacQuarrie?
+#### Were there other small island clans like MacQuarrie?
 
-A) No, MacQuarrie was unique
-B) Yes, including MacNeils of Barra and MacLeods of Harris and Skye
-C) Only in Ireland
-D) Only in England
+<div class="upper-alpha" markdown>
+1. No, MacQuarrie was unique
+2. Yes, including MacNeils of Barra and MacLeods of Harris and Skye
+3. Only in Ireland
+4. Only in England
+</div>
 
-**Answer: B) Yes, including MacNeils of Barra and MacLeods of Harris and Skye**
+??? question "Show Answer"
+    The correct answer is **2**. Yes! The Hebrides had many small island clans, including the MacNeils of Barra, the MacLeods of Harris and Skye, and various smaller clans. Island clans shared similar challenges of limited resources but fierce independence.
 
-#### 88. How did island clans differ from mainland clans?
+#### How did island clans differ from mainland clans?
 
-A) They didn't differ at all
-B) More isolated, relied on maritime skills, but were harder to attack
-C) Island clans were always wealthier
-D) Mainland clans didn't exist
+<div class="upper-alpha" markdown>
+1. They didn't differ at all
+2. More isolated, relied on maritime skills, but were harder to attack
+3. Island clans were always wealthier
+4. Mainland clans didn't exist
+</div>
 
-**Answer: B) More isolated, relied on maritime skills, but were harder to attack**
+??? question "Show Answer"
+    The correct answer is **2**. Island clans were more isolated, relied heavily on fishing and maritime skills, had smaller populations and territories, were more vulnerable to weather and crop failures, but were also harder to attack and had strong maritime traditions.
 
-#### 89. How did small and large clans relate to each other?
+#### How did small and large clans relate to each other?
 
-A) They never interacted
-B) Small clans formed alliances with larger clans for protection
-C) Small clans ruled over large clans
-D) They were always at war
+<div class="upper-alpha" markdown>
+1. They never interacted
+2. Small clans formed alliances with larger clans for protection
+3. Small clans ruled over large clans
+4. They were always at war
+</div>
 
-**Answer: B) Small clans formed alliances with larger clans for protection**
+??? question "Show Answer"
+    The correct answer is **2**. Small clans like the MacQuarries often formed alliances with larger, more powerful clans for protection and political support. These relationships involved military service, political support, and sometimes financial obligations.
 
-#### 90. Did any clan chiefs keep their lands through the Clearances?
+#### Did any clan chiefs keep their lands through the Clearances?
 
-A) All of them kept their lands
-B) None kept any land
-C) Some did, especially those who adapted or supported the government
-D) Only French clans
+<div class="upper-alpha" markdown>
+1. All of them kept their lands
+2. None kept any land
+3. Some did, especially those who adapted or supported the government
+4. Only French clans
+</div>
 
-**Answer: C) Some did, especially those who adapted or supported the government**
+??? question "Show Answer"
+    The correct answer is **3**. Some did, especially those who adapted to commercial agriculture, supported the government, or had other sources of income. However, many traditional chiefs lost their lands, and those who kept theirs often participated in clearing their own clanspeople for profit.
 
 ## Legacy and Impact
 
-#### 91. What is Clan MacQuarrie's legacy?
+#### What is Clan MacQuarrie's legacy?
 
-A) They have no legacy
-B) Highland history contribution, Lachlan Macquarie's Australia transformation, and surviving diaspora identity
-C) Only military defeats
-D) Inventing tartan
+<div class="upper-alpha" markdown>
+1. They have no legacy
+2. Highland history contribution, Lachlan Macquarie's Australia transformation, and surviving diaspora identity
+3. Only military defeats
+4. Inventing tartan
+</div>
 
-**Answer: B) Highland history contribution, Lachlan Macquarie's Australia transformation, and surviving diaspora identity**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarrie legacy includes their contribution to Scottish Highland history, Lachlan Macquarie's transformation of Australia, the survival of clan identity despite losing their homeland, and the thousands of descendants worldwide who maintain connection to their heritage.
 
-#### 92. Why should people care about clan history today?
+#### Why should people care about clan history today?
 
-A) They shouldn't
-B) It helps understand family origins, cultural resilience, and preserves Scottish heritage
-C) Only for entertainment
-D) It's required by law
+<div class="upper-alpha" markdown>
+1. They shouldn't
+2. It helps understand family origins, cultural resilience, and preserves Scottish heritage
+3. Only for entertainment
+4. It's required by law
+</div>
 
-**Answer: B) It helps understand family origins, cultural resilience, and preserves Scottish heritage**
+??? question "Show Answer"
+    The correct answer is **2**. Clan history helps us understand family origins, appreciate cultural resilience, learn from historical challenges, maintain connections across generations and geography, and preserve important aspects of Scottish heritage that might otherwise be forgotten.
 
-#### 93. How does MacQuarrie history reflect broader Scottish history?
+#### How does MacQuarrie history reflect broader Scottish history?
 
-A) It doesn't
-B) It exemplifies Highland decline: independence, loyalty, cultural destruction, and diaspora
-C) It's completely different
-D) It's only about one family
+<div class="upper-alpha" markdown>
+1. It doesn't
+2. It exemplifies Highland decline: independence, loyalty, cultural destruction, and diaspora
+3. It's completely different
+4. It's only about one family
+</div>
 
-**Answer: B) It exemplifies Highland decline: independence, loyalty, cultural destruction, and diaspora**
+??? question "Show Answer"
+    The correct answer is **2**. MacQuarrie history exemplifies the broader pattern of Highland decline: proud independence, loyalty leading to devastating choices, the destruction of traditional culture, forced emigration, and the transformation from a living community to a diaspora preserving memory.
 
-#### 94. What lessons can we learn from Clan MacQuarrie history?
+#### What lessons can we learn from Clan MacQuarrie history?
 
-A) None
-B) Consequences of choices, resilience of identity, and how small communities produce significant individuals
-C) Only military tactics
-D) How to farm
+<div class="upper-alpha" markdown>
+1. None
+2. Consequences of choices, resilience of identity, and how small communities produce significant individuals
+3. Only military tactics
+4. How to farm
+</div>
 
-**Answer: B) Consequences of choices, resilience of identity, and how small communities produce significant individuals**
+??? question "Show Answer"
+    The correct answer is **2**. Lessons include the consequences of political choices, the resilience of cultural identity, the pain of forced displacement, the importance of adaptability, and how small communities can produce individuals of world historical significance (like Lachlan Macquarie).
 
-#### 95. How do descendants keep MacQuarrie heritage alive today?
+#### How do descendants keep MacQuarrie heritage alive today?
 
-A) They don't
-B) Through clan societies, genealogy, tourism, Highland Games, and DNA testing
-C) Only by wearing tartan
-D) By moving back to Ulva
+<div class="upper-alpha" markdown>
+1. They don't
+2. Through clan societies, genealogy, tourism, Highland Games, and DNA testing
+3. Only by wearing tartan
+4. By moving back to Ulva
+</div>
 
-**Answer: B) Through clan societies, genealogy, tourism, Highland Games, and DNA testing**
+??? question "Show Answer"
+    The correct answer is **2**. Through clan societies, genealogical research, heritage tourism to Scotland, gathering at Highland Games, preserving family stories, teaching younger generations, maintaining websites and publications, and DNA testing connecting distant relatives.
 
 ## Miscellaneous
 
-#### 96. What's the difference between Scottish and Irish clans?
+#### What's the difference between Scottish and Irish clans?
 
-A) There is no difference
-B) Scottish clans had more formalized hierarchical structures with recognized chiefs
-C) Irish clans were exactly the same
-D) Scottish clans didn't have chiefs
+<div class="upper-alpha" markdown>
+1. There is no difference
+2. Scottish clans had more formalized hierarchical structures with recognized chiefs
+3. Irish clans were exactly the same
+4. Scottish clans didn't have chiefs
+</div>
 
-**Answer: B) Scottish clans had more formalized hierarchical structures with recognized chiefs**
+??? question "Show Answer"
+    The correct answer is **2**. Both systems are based on kinship and shared territory, but Scottish clans developed a more formalized hierarchical structure with recognized chiefs, while Irish clans (called "septs") had somewhat different organizational patterns. Both were eventually destroyed by English government policies.
 
-#### 97. Are there any MacQuarrie castles?
+#### Are there any MacQuarrie castles?
 
-A) Yes, hundreds
-B) No major castles—only the modest chief's residence ruins remain
-C) Yes, one giant castle
-D) They lived in caves
+<div class="upper-alpha" markdown>
+1. Yes, hundreds
+2. No major castles—only the modest chief's residence ruins remain
+3. Yes, one giant castle
+4. They lived in caves
+</div>
 
-**Answer: B) No major castles—only the modest chief's residence ruins remain**
+??? question "Show Answer"
+    The correct answer is **2**. No major castles. The MacQuarrie chiefs' residence on Ulva was substantial but not a castle like those of wealthier clans. Only stone foundations remain today. The clan's modest resources didn't permit building or maintaining elaborate fortifications.
 
-#### 98. What happened to MacQuarrie historical records?
+#### What happened to the MacQuarrie clan's historical records?
 
-A) All are perfectly preserved
-B) Many were lost due to clan dispersal and poverty
-C) They were all burned intentionally
-D) They never kept records
+<div class="upper-alpha" markdown>
+1. All are perfectly preserved
+2. Many were lost due to clan dispersal and poverty
+3. They were all burned intentionally
+4. They never kept records
+</div>
 
-**Answer: B) Many were lost due to clan dispersal and poverty**
+??? question "Show Answer"
+    The correct answer is **2**. Many records were lost or destroyed over time due to clan dispersal, lack of resources to maintain archives, and the general poverty following the loss of Ulva. Some records survive in Scottish archives, but much of the clan's history survives primarily through oral tradition and genealogical reconstruction.
 
-#### 99. Can the MacQuarrie chiefship be restored?
+#### Can the MacQuarrie chiefship be restored?
 
-A) Never
-B) Theoretically yes, with proof of descent and recognition from the Lord Lyon
-C) It already has been
-D) Only if Scotland becomes independent
+<div class="upper-alpha" markdown>
+1. Never
+2. Theoretically yes, with proof of descent and recognition from the Lord Lyon
+3. It already has been
+4. Only if Scotland becomes independent
+</div>
 
-**Answer: B) Theoretically yes, with proof of descent and recognition from the Lord Lyon**
+??? question "Show Answer"
+    The correct answer is **2**. Theoretically, if someone could prove direct descent from the last chief and gain recognition from the Lord Lyon King of Arms (Scotland's heraldic authority), the chiefship could be restored. However, this hasn't happened, and Clan MacQuarrie currently has no recognized chief.
 
-#### 100. What's the most important thing to know about Clan MacQuarrie?
+#### What's the most important thing to know about Clan MacQuarrie?
 
-A) They were the largest clan
-B) Despite losing their homeland, they maintained their identity—exemplifying both tragedy and resilience
-C) They invented whisky
-D) They never left Scotland
+<div class="upper-alpha" markdown>
+1. They were the largest clan
+2. Despite losing their homeland, they maintained their identity—exemplifying both tragedy and resilience
+3. They invented whisky
+4. They never left Scotland
+</div>
 
-**Answer: B) Despite losing their homeland, they maintained their identity—exemplifying both tragedy and resilience**
+??? question "Show Answer"
+    The correct answer is **2**. The most important thing is that despite being small, despite losing their homeland, and despite being scattered across the world, the MacQuarries maintained their identity. They exemplify both the tragedy of Highland history and the remarkable resilience of cultural heritage that survives displacement and loss.
 
 ---
 
