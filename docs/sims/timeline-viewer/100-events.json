@@ -1,0 +1,705 @@
+{
+  "title": "Clan MacQuarrie and Scottish History Timeline",
+  "events": [
+    {
+      "id": 1,
+      "date": "843",
+      "title": "Kingdom of Alba Founded",
+      "description": "Kenneth MacAlpin unites the Picts and Scots, establishing the Kingdom of Alba, the foundation of medieval Scotland.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 2,
+      "date": "1093",
+      "title": "Death of Malcolm III",
+      "description": "King Malcolm III Canmore dies, marking the end of an era and beginning of dynastic struggles in Scotland.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 3,
+      "date": "1164",
+      "title": "Somerled's Death",
+      "description": "Somerled, Lord of the Isles and ancestor of many Highland clans including MacQuarrie, dies in battle at Renfrew.",
+      "category": "Clan Origins"
+    },
+    {
+      "id": 4,
+      "date": "1249",
+      "title": "Alexander III Becomes King",
+      "description": "Alexander III crowned, beginning a period of relative peace and prosperity in Scotland.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 5,
+      "date": "1266",
+      "title": "Treaty of Perth",
+      "description": "Norway cedes the Western Isles to Scotland, affecting the political landscape of Clan MacQuarrie's territories.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 6,
+      "date": "1296",
+      "title": "First War of Independence Begins",
+      "description": "Edward I of England invades Scotland, beginning the Wars of Scottish Independence.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 7,
+      "date": "1314",
+      "title": "Battle of Bannockburn",
+      "description": "Robert the Bruce defeats English forces, securing Scottish independence. Highland clans played crucial roles.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 8,
+      "date": "1346",
+      "title": "Battle of Neville's Cross",
+      "description": "Scottish forces defeated by English, King David II captured, affecting all Scottish clans.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 9,
+      "date": "1400",
+      "title": "MacQuarrie Clan Established on Ulva",
+      "description": "Clan MacQuarrie firmly established on the Isle of Ulva off Mull, their ancestral homeland for centuries.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 10,
+      "date": "1411",
+      "title": "Battle of Harlaw",
+      "description": "Major conflict between Highland and Lowland forces, demonstrating clan military power.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 11,
+      "date": "1429",
+      "title": "Lordship of the Isles at Height",
+      "description": "The Lordship of the Isles reaches its zenith of power, with MacQuarries as supporters.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 12,
+      "date": "1452",
+      "title": "MacQuarrie Alliance with MacLeans",
+      "description": "Clan MacQuarrie forms strong alliance with Clan MacLean of Duart, defining relationship for centuries.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 13,
+      "date": "1493",
+      "title": "Lordship of the Isles Forfeited",
+      "description": "James IV abolishes the Lordship of the Isles, changing political dynamics for all Hebridean clans.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 14,
+      "date": "1513",
+      "title": "Battle of Flodden",
+      "description": "Disastrous Scottish defeat against English forces; King James IV killed along with much of Scottish nobility.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 15,
+      "date": "1542",
+      "title": "Birth of Mary Queen of Scots",
+      "description": "Mary Stuart born, becoming queen when six days old, beginning tumultuous reign.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 16,
+      "date": "1560",
+      "title": "Scottish Reformation",
+      "description": "Scotland officially becomes Protestant, profoundly affecting clan society and Highland culture.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 17,
+      "date": "1567",
+      "title": "Mary Queen of Scots Abdicates",
+      "description": "Mary forced to abdicate in favor of her infant son James VI, creating political upheaval.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 18,
+      "date": "1594",
+      "title": "MacQuarries Fight at Glenlivet",
+      "description": "Clan MacQuarrie participates in the Battle of Glenlivet supporting the Catholic earls.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 19,
+      "date": "1603",
+      "title": "Union of the Crowns",
+      "description": "James VI of Scotland becomes James I of England, uniting the crowns but not the kingdoms.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 20,
+      "date": "1609",
+      "title": "Statutes of Iona",
+      "description": "Laws imposed to control Highland chiefs, including restrictions on retaining armed men and requirements to educate sons in Lowlands.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 21,
+      "date": "1615",
+      "title": "MacQuarrie Chief Recognized",
+      "description": "Official recognition of the MacQuarrie chief's authority over Ulva and surrounding territories.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 22,
+      "date": "1638",
+      "title": "National Covenant Signed",
+      "description": "Scottish nobles and clergy sign covenant opposing Charles I's religious policies, beginning conflict.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 23,
+      "date": "1644",
+      "title": "Battle of Inverlochy",
+      "description": "Marquess of Montrose defeats Covenanter army; Highland clans including MacQuarrie allies participate.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 24,
+      "date": "1645",
+      "title": "Battle of Kilsyth",
+      "description": "Montrose's greatest victory; Highland warriors prove their military prowess.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 25,
+      "date": "1649",
+      "title": "Execution of Charles I",
+      "description": "English Parliament executes King Charles I, shocking Scotland and Europe.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 26,
+      "date": "1650",
+      "title": "Battle of Carbisdale",
+      "description": "Montrose defeated and later executed, ending Royalist hopes in Scotland temporarily.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 27,
+      "date": "1651",
+      "title": "Battle of Worcester",
+      "description": "Charles II defeated by Cromwell, ending the Civil War; Scots who fought suffer consequences.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 28,
+      "date": "1660",
+      "title": "Restoration of Charles II",
+      "description": "Monarchy restored in Britain; impacts on Scottish clan loyalties and politics.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 29,
+      "date": "1679",
+      "title": "Battle of Bothwell Bridge",
+      "description": "Government forces crush Covenanter rebellion, intensifying religious tensions in Scotland.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 30,
+      "date": "1688",
+      "title": "Glorious Revolution",
+      "description": "James VII deposed, William of Orange takes throne, dividing Highland loyalties.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 31,
+      "date": "1689",
+      "title": "Battle of Killiecrankie",
+      "description": "Jacobite victory under Viscount Dundee, though he is killed; Highland clans demonstrate military strength.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 32,
+      "date": "1692",
+      "title": "Massacre of Glencoe",
+      "description": "Campbell forces massacre MacDonalds, creating deep clan animosities and mistrust of government.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 33,
+      "date": "1695",
+      "title": "Bank of Scotland Founded",
+      "description": "Scotland's first bank established, marking economic development before the Union.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 34,
+      "date": "1698",
+      "title": "Darien Scheme Begins",
+      "description": "Scotland's colonial venture in Panama begins, eventually bankrupting many Scottish investors.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 35,
+      "date": "1707",
+      "title": "Act of Union",
+      "description": "Scotland and England unite to form Great Britain, dissolving Scottish Parliament; controversial among Highlanders.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 36,
+      "date": "1715",
+      "title": "First Jacobite Rising",
+      "description": "Earl of Mar leads rebellion to restore Stuart monarchy; MacQuarries support the Jacobite cause.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 37,
+      "date": "1715",
+      "title": "Battle of Sheriffmuir",
+      "description": "Indecisive battle between Jacobites and Government forces during the '15 Rising.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 38,
+      "date": "1716",
+      "title": "Disarming Act",
+      "description": "Act passed to disarm Highland clans after failed 1715 Rising, affecting clan military traditions.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 39,
+      "date": "1719",
+      "title": "Battle of Glen Shiel",
+      "description": "Jacobite and Spanish forces defeated by government troops in the Highlands.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 40,
+      "date": "1725",
+      "title": "General Wade's Roads Begin",
+      "description": "Construction of military roads through Highlands begins, opening up clan territories.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 41,
+      "date": "1745",
+      "title": "Jacobite Rising of '45 Begins",
+      "description": "Prince Charles Edward Stuart lands in Scotland, beginning the last major Jacobite rebellion.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 42,
+      "date": "1745",
+      "title": "MacQuarries Join Prince Charlie",
+      "description": "Chief Allan MacQuarrie and the clan rally to support Prince Charles Edward Stuart's cause.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 43,
+      "date": "1745",
+      "title": "Battle of Prestonpans",
+      "description": "Jacobite victory over government forces; Highland charge proves devastating; MacQuarries participate.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 44,
+      "date": "1745",
+      "title": "Jacobites Enter England",
+      "description": "Prince Charles's army marches into England, reaching as far as Derby before retreating.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 45,
+      "date": "1746",
+      "title": "Battle of Falkirk Muir",
+      "description": "Second Jacobite victory, but momentum begins to shift toward government forces.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 46,
+      "date": "1746-04-16",
+      "title": "Battle of Culloden",
+      "description": "Final defeat of Jacobite forces on Culloden Moor; Chief Allan MacQuarrie fights bravely, clan suffers heavy casualties.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 47,
+      "date": "1746",
+      "title": "Death of Allan MacQuarrie",
+      "description": "Chief Allan MacQuarrie dies shortly after Culloden, marking the beginning of the clan's decline.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 48,
+      "date": "1746",
+      "title": "Bonnie Prince Charlie's Escape",
+      "description": "Prince Charles Edward Stuart evades capture and escapes to France with Flora MacDonald's help.",
+      "category": "Jacobite Risings"
+    },
+    {
+      "id": 49,
+      "date": "1746",
+      "title": "Act of Proscription",
+      "description": "Wearing Highland dress banned, beginning cultural suppression of Highland traditions.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 50,
+      "date": "1747",
+      "title": "Heritable Jurisdictions Act",
+      "description": "Traditional clan chief powers abolished, fundamentally changing Highland social structure.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 51,
+      "date": "1748",
+      "title": "Disarming Act Enforced",
+      "description": "Strict enforcement of weapons ban in Highlands, disempowering clan military traditions.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 52,
+      "date": "1750s",
+      "title": "MacQuarrie Estate Struggles",
+      "description": "Financial difficulties plague the MacQuarrie chiefs in aftermath of Culloden and changing economy.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 53,
+      "date": "1757",
+      "title": "Highland Regiments Formed",
+      "description": "British Army begins recruiting Highland regiments, channeling warrior culture into imperial service.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 54,
+      "date": "1760",
+      "title": "James MacPherson's Ossian",
+      "description": "Publication begins of controversial 'Ossian' poems, romanticizing Highland culture.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 55,
+      "date": "1773",
+      "title": "Johnson and Boswell Visit Hebrides",
+      "description": "Samuel Johnson and James Boswell tour the Hebrides, documenting Highland life including visit near Ulva.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 56,
+      "date": "1773",
+      "title": "MacQuarries Host Distinguished Visitors",
+      "description": "The MacQuarrie chief entertains notable visitors on Ulva during their tour of the Hebrides.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 57,
+      "date": "1778",
+      "title": "Catholic Relief Act",
+      "description": "Some religious restrictions eased in Scotland, part of gradual social changes.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 58,
+      "date": "1782",
+      "title": "Proscription Act Repealed",
+      "description": "Ban on Highland dress lifted after 36 years, allowing cultural revival to begin.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 59,
+      "date": "1784",
+      "title": "Highland Society of Scotland Founded",
+      "description": "Organization established to preserve Highland culture and support Gaelic language.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 60,
+      "date": "1792",
+      "title": "Major MacQuarrie Serves in India",
+      "description": "Lachlan MacQuarrie begins distinguished military service with British Army in India.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 61,
+      "date": "1794",
+      "title": "Last MacQuarrie Chief Sells Ulva",
+      "description": "Financial pressures force the 16th chief to sell the ancestral island of Ulva, ending centuries of MacQuarrie ownership.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 62,
+      "date": "1796",
+      "title": "Highland Clearances Intensify",
+      "description": "Forced removal of Highland populations accelerates, devastating traditional clan communities.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 63,
+      "date": "1807",
+      "title": "First Steamboat on Clyde",
+      "description": "Industrial revolution reaches Scotland, beginning transformation of Highland accessibility.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 64,
+      "date": "1809",
+      "title": "Lachlan MacQuarrie Appointed Governor",
+      "description": "Major-General Lachlan MacQuarrie appointed Governor of New South Wales, Australia.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 65,
+      "date": "1810-1821",
+      "title": "MacQuarrie Governorship in Australia",
+      "description": "Lachlan MacQuarrie serves as governor, transforming the colony and earning title 'Father of Australia'.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 66,
+      "date": "1815",
+      "title": "Battle of Waterloo",
+      "description": "Scottish regiments play crucial role in Napoleon's final defeat; Highland soldiers distinguished.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 67,
+      "date": "1822",
+      "title": "George IV Visits Scotland",
+      "description": "First royal visit to Scotland in generations, orchestrated by Walter Scott, promoting tartanry.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 68,
+      "date": "1824",
+      "title": "Death of Lachlan MacQuarrie",
+      "description": "Lachlan MacQuarrie dies in London, having achieved fame far exceeding his clan's diminished circumstances.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 69,
+      "date": "1830s",
+      "title": "Peak of Highland Clearances",
+      "description": "Mass evictions reach their height, particularly in Sutherland; clan territories depopulated.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 70,
+      "title": "MacQuarrie Diaspora Grows",
+      "date": "1830s-1850s",
+      "description": "MacQuarrie clan members emigrate to Canada, Australia, New Zealand, and United States.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 71,
+      "date": "1843",
+      "title": "Disruption of Church of Scotland",
+      "description": "Evangelical faction splits from Church of Scotland, forming Free Church; impacts Highland communities.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 72,
+      "date": "1846-1857",
+      "title": "Highland Potato Famine",
+      "description": "Crop failures cause widespread starvation and emigration from Highlands and Islands.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 73,
+      "date": "1847",
+      "title": "Poor Law Act for Scotland",
+      "description": "Social welfare system established, attempting to address Highland poverty.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 74,
+      "date": "1872",
+      "title": "Education Act Scotland",
+      "description": "Compulsory education established, further eroding Gaelic language and traditional culture.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 75,
+      "date": "1882",
+      "title": "Battle of the Braes",
+      "description": "Land rights protest on Skye, beginning Highland Land League movement for crofters' rights.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 76,
+      "date": "1886",
+      "title": "Crofters Holdings Act",
+      "description": "Landmark legislation providing security of tenure for Highland crofters.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 77,
+      "date": "1890",
+      "title": "Forth Rail Bridge Opens",
+      "description": "Engineering marvel connects Highlands to industrial Scotland, symbolizing modernization.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 78,
+      "date": "1901",
+      "title": "Death of Queen Victoria",
+      "description": "End of Victorian era; queen had promoted romanticized view of Highlands through Balmoral.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 79,
+      "date": "1914-1918",
+      "title": "World War I",
+      "description": "Highland regiments suffer devastating casualties; proportionally Scotland's losses exceed rest of Britain.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 80,
+      "date": "1920s",
+      "title": "MacQuarries in Australia Prosper",
+      "description": "Descendants of Lachlan MacQuarrie and other emigrants establish themselves across Australia.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 81,
+      "date": "1934",
+      "title": "Scottish National Party Founded",
+      "description": "Modern Scottish nationalist movement begins with SNP formation.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 82,
+      "date": "1939-1945",
+      "title": "World War II",
+      "description": "Scotland again contributes significantly to war effort; Highland regiments serve with distinction.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 83,
+      "date": "1947",
+      "title": "Edinburgh Festival Founded",
+      "description": "International festival established, promoting Scottish culture globally.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 84,
+      "date": "1950s",
+      "title": "MacQuarrie Clan Society Formed",
+      "description": "Descendants organize to preserve MacQuarrie history and promote connections among members.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 85,
+      "date": "1965",
+      "title": "Highlands and Islands Development Board",
+      "description": "Government agency created to reverse Highland depopulation and economic decline.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 86,
+      "date": "1970s",
+      "title": "North Sea Oil Discovered",
+      "description": "Oil discoveries off Scottish coast transform economy and fuel independence debate.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 87,
+      "date": "1979",
+      "title": "First Devolution Referendum Fails",
+      "description": "Referendum on Scottish Assembly fails to reach required threshold despite majority yes vote.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 88,
+      "date": "1982",
+      "title": "Macquarie University Honors Name",
+      "description": "Australian university named for Lachlan Macquarie continues to honor his legacy.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 89,
+      "date": "1997",
+      "title": "Devolution Referendum Succeeds",
+      "description": "Scots vote decisively for restored Scottish Parliament with tax-raising powers.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 90,
+      "date": "1999",
+      "title": "Scottish Parliament Reconvened",
+      "description": "Scottish Parliament opens after 292-year absence, transforming governance.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 91,
+      "date": "2000s",
+      "title": "MacQuarrie Clan Gatherings",
+      "description": "Regular international gatherings bring MacQuarrie descendants together from around the world.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 92,
+      "date": "2007",
+      "title": "SNP Forms Scottish Government",
+      "description": "Scottish National Party wins plurality, forms minority government; independence movement strengthens.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 93,
+      "date": "2010",
+      "title": "Lachlan Macquarie 250th Anniversary",
+      "description": "Major commemorations in Australia and Scotland mark Macquarie's 250th birth anniversary.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 94,
+      "date": "2011",
+      "title": "SNP Wins Majority",
+      "description": "SNP wins overall majority in Scottish Parliament, making independence referendum possible.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 95,
+      "date": "2014",
+      "title": "Independence Referendum",
+      "description": "Scotland votes 55-45% to remain in United Kingdom, but debate intensifies.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 96,
+      "date": "2016",
+      "title": "Brexit Vote",
+      "description": "UK votes to leave EU, but Scotland votes strongly to remain, creating constitutional tension.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 97,
+      "date": "2020",
+      "title": "COVID-19 Pandemic Response",
+      "description": "Scottish Government's distinct pandemic response highlights devolution's practical impact.",
+      "category": "Scottish History"
+    },
+    {
+      "id": 98,
+      "date": "2021",
+      "title": "MacQuarrie Heritage Projects",
+      "description": "Digital projects document MacQuarrie history and genealogy, connecting global diaspora.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 99,
+      "date": "2023",
+      "title": "Ulva Heritage Recognition",
+      "description": "Increased recognition of MacQuarrie heritage on Ulva with historical markers and cultural projects.",
+      "category": "Clan MacQuarrie"
+    },
+    {
+      "id": 100,
+      "date": "2024",
+      "title": "Clan MacQuarrie International Network",
+      "description": "Digital platforms connect thousands of MacQuarrie descendants worldwide, preserving clan identity.",
+      "category": "Clan MacQuarrie"
+    }
+  ]
+}

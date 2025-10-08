@@ -10,7 +10,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Chapters:
-    - Table of Contents: index.md
+    - Table of Contents: content/index.md
     - Clan History: content/01-clan-history/index.md
     - Family History Research: content/02-family-history-research/index.md
     - Visiting Scotland: content/03-visit-scotland/index.md
@@ -19,6 +19,9 @@ nav:
     - Education: content/06-education/index.md
     - Research and Archives: content/07-research-and-archives/index.md
     - Modern Activities: content/08-activities/index.md
+  - Interactive Apps:
+    - List if Apps: sims/index.md
+    - Timeline Viewer: sims/timeline-viewer/index.md
   - FAQ: faq.md
   - Resources:
     - Glossary: glossary.md
@@ -27,7 +30,8 @@ nav:
   - Prompts:
     - Introduction: prompts/index.md
     - Personas: prompts/personas.md
-    - Content Structure: prompts/content-structure.md  
+    - Content Structure: prompts/content-structure.md
+    - Timeline Data: prompts/timeline-data.md
   - License: license.md
   - Contact: contact.md
  

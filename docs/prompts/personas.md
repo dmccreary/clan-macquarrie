@@ -1,5 +1,6 @@
 # Generating Personas
 
+## Sample Prompt
 !!! prompt
     Personas for the Clan MacQuarrie website:
 
@@ -9,16 +10,14 @@
 
     For each persona, describe the persona in detail and crate a detailed list of questions they might have and the types of information they are looking for.  List the personas in the frequency order you predict they will arrive at the site.  This information can then be used to help organize the site top-level navigation.
 
-    ## Response
+## Response
 
-    # Clan MacQuarrie Website User Personas
-
-## Persona 1: Genealogy Researcher
+### Persona 1: Genealogy Researcher
 
 ### Description
 This persona represents individuals researching their family history and potential connection to Clan MacQuarrie. They range from casual hobbyists to serious genealogists, typically aged 35-75, with varying levels of research experience. They may have heard family stories about Scottish heritage or discovered the MacQuarrie name in their family tree. Many are based in North America, Australia, New Zealand, or other diaspora locations. They are emotionally invested in discovering their roots and often work with limited information passed down through generations.
 
-### Key Questions and Information Needs
+#### Key Questions and Information Needs
 
 **Family Connection Questions:**
 - How do I know if I'm descended from Clan MacQuarrie?
@@ -40,12 +39,12 @@ This persona represents individuals researching their family history and potenti
 - How do I determine which branch of the clan my ancestors belonged to?
 - What tartans are associated with Clan MacQuarrie?
 
-## Persona 2: Heritage Tourist Planning Scotland Visit
+### Persona 2: Heritage Tourist Planning Scotland Visit
 
-### Description
+#### Description
 This persona includes tourists planning trips to Scotland, particularly those with Scottish ancestry or general interest in Highland history and culture. Age range 25-70, often traveling as couples or families. They want to make their visit meaningful and educational, seeking authentic experiences. Some have MacQuarrie connections, while others are general Scottish history enthusiasts. They are planning 7-21 day trips and want to maximize their time visiting historically significant locations.
 
-### Key Questions and Information Needs
+#### Key Questions and Information Needs
 
 **Travel Planning:**
 - How do I get to the Isle of Ulva?
@@ -68,12 +67,12 @@ This persona includes tourists planning trips to Scotland, particularly those wi
 - Are there local guides who specialize in MacQuarrie history?
 - What museums have MacQuarrie artifacts or exhibits?
 
-## Persona 3: Secondary School History Student (or Teacher)
+### Persona 3: Secondary School History Student (or Teacher)
 
-### Description
+#### Description
 This persona includes Scottish history students aged 14-18 and their teachers seeking curriculum-aligned educational resources about Highland clan history. Students are working on projects, essays, or exam preparation about the Jacobite period, Highland Clearances, or clan system. Teachers are looking for reliable, age-appropriate resources that align with Scottish Curriculum for Excellence or other national standards. They need information that's accurate, clearly written, and supported by credible sources.
 
-### Key Questions and Information Needs
+#### Key Questions and Information Needs
 
 **Curriculum Topics:**
 - What role did Clan MacQuarrie play in the Jacobite risings?
@@ -96,12 +95,12 @@ This persona includes Scottish history students aged 14-18 and their teachers se
 - What was the clan's economic base (farming, fishing, trade)?
 - How did MacQuarrie history reflect broader Scottish historical trends?
 
-## Persona 4: Academic Researcher/Historian
+### Persona 4: Academic Researcher/Historian
 
-### Description
+#### Description
 This persona includes university students (undergraduate and postgraduate), academic historians, and independent scholars conducting serious historical research. Age range 20-70, with advanced education and research skills. They are working on theses, dissertations, books, articles, or documentary projects. They need primary sources, detailed bibliographies, and verifiable information. They may be studying specific aspects such as clan warfare, Highland economy, Jacobite period, land tenure systems, or emigration patterns.
 
-### Key Questions and Information Needs
+#### Key Questions and Information Needs
 
 **Primary Sources:**
 - What archival collections contain MacQuarrie documents?
@@ -130,12 +129,12 @@ This persona includes university students (undergraduate and postgraduate), acad
 - Are there peer-reviewed publications about the clan?
 - What archaeological evidence exists for MacQuarrie settlements?
 
-## Persona 5: Geography and Environmental Enthusiast
+### Persona 5: Geography and Environmental Enthusiast
 
-### Description
+#### Description
 This persona includes people interested in historical geography, environmental history, and how landscape shaped human history. Age range 25-65, often with backgrounds in geography, environmental science, or related fields. They may be students, professionals, or hobbyists interested in understanding how the physical environment of Ulva and surrounding areas influenced clan life, settlement patterns, and ultimate decline. Some are interested in historical climate and its impact on Highland life.
 
-### Key Questions and Information Needs
+#### Key Questions and Information Needs
 
 **Physical Geography:**
 - What are the geographical features of Ulva and MacQuarrie territories?
@@ -165,12 +164,12 @@ This persona includes people interested in historical geography, environmental h
 - What were the transportation routes and trade connections?
 - How did the geography influence military strategy and defense?
 
-## Persona 6: Scottish Culture and Tartans Enthusiast
+### Persona 6: Scottish Culture and Tartans Enthusiast
 
-### Description
+#### Description
 This persona includes individuals passionate about Scottish cultural traditions, particularly tartans, Highland dress, and clan symbols. Age range 30-70, they may or may not have Scottish ancestry but are drawn to Scottish culture. They attend Highland games, Scottish festivals, and cultural events. They want to wear or display clan symbols appropriately and learn the stories behind the traditions. They value authenticity and historical accuracy in cultural practices.
 
-### Key Questions and Information Needs
+#### Key Questions and Information Needs
 
 **Clan Identity:**
 - What is the official MacQuarrie tartan pattern?
