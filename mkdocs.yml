@@ -10,28 +10,29 @@ nav:
   - Home: index.md
   - About: about.md
   - Chapters:
+    - Table of Contents: index.md
     - Clan History: content/01-clan-history/index.md
     - Family History Research: content/02-family-history-research/index.md
     - Visiting Scotland: content/03-visit-scotland/index.md
-    - Land and Environment: content/04-land-environment/index.md
-    - Identity and Symbols: content/05-identity-symbols/index.md
+    - Land and Environment: content/04-land-and-environment/index.md
+    - Identity and Symbols: content/05-identity-and-symbols/index.md
     - Education: content/06-education/index.md
-    - Research and Archives: content/07-research-archives/index.md
+    - Research and Archives: content/07-research-and-archives/index.md
     - Modern Activities: content/08-activities/index.md
   - Resources:
-  - Glossary: glossary.md
-  - How We Built This Site: how-we-built-this-site.md
-  - References: references.md
+    - Glossary: glossary.md
+    - How We Built This Site: how-we-built-this-site.md
+    - References: references.md
   - Contact: contact.md
  
-# CoderDojo Microsite Standards from here down
+# Dan's Microsite Standards from here down
 
 theme:
   name: material
   extra_css:
     - styles/custom.css
   logo: img/logo.png
-  # favicon: img/my-icon.png
+  favicon: img/favicon.ico
   palette:
     primary: 'blue'
     accent: 'orange'
