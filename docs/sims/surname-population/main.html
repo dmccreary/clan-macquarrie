@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MacQuarrie Surname Population 1400-2000</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        #chartContainer {
+            position: relative;
+            height: 500px;
+            margin-bottom: 30px;
+        }
+        .notes {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 5px;
+            border-left: 4px solid #3498db;
+        }
+        .notes h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        .notes ul {
+            margin: 10px 0;
+        }
+        .notes li {
+            margin: 8px 0;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MacQuarrie Surname Population Estimates</h1>
+        <div class="subtitle">1400-2000 (All Spelling Variants)</div>
+        
+        <div id="chartContainer">
+            <canvas id="populationChart"></canvas>
+        </div>
+
+        <div class="notes">
+            <h3>Historical Context</h3>
+            <ul>
+                <li><strong>1400-1745:</strong> Slow growth from clan establishment on Ulva through Jacobite period</li>
+                <li><strong>1746:</strong> Sharp decline due to Battle of Culloden and death of Chief Allan MacQuarrie</li>
+                <li><strong>1794:</strong> Sale of Ulva due to financial difficulties</li>
+                <li><strong>1796-1850s:</strong> Highland Clearances and mass emigration to Canada, Australia, New Zealand, and United States</li>
+                <li><strong>1850-2000:</strong> Rapid growth through global diaspora expansion</li>
+            </ul>
+            <p><em>Note: Estimates include 100+ spelling variants. Conservative figures as some variant surnames (Maguire, Corry, Quarry, McCreary) have multiple origins beyond Clan MacQuarrie.</em></p>
+        </div>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('populationChart').getContext('2d');
+        
+        const data = {
+            labels: [1400, 1450, 1500, 1550, 1600, 1650, 1700, 1715, 1746, 1750, 1800, 1850, 1900, 1950, 2000],
+            datasets: [{
+                label: 'Estimated Population',
+                data: [150, 200, 280, 350, 450, 520, 600, 680, 580, 550, 800, 2500, 8500, 25000, 50000],
+                borderColor: '#2c3e50',
+                backgroundColor: 'rgba(44, 62, 80, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointRadius: 5,
+                pointHoverRadius: 7,
+                pointBackgroundColor: '#2c3e50',
+                pointBorderColor: '#fff',
+                pointBorderWidth: 2
+            }]
+        };
+
+        const config = {
+            type: 'line',
+            data: data,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'MacQuarrie Surname Population Growth Over 600 Years',
+                        font: {
+                            size: 18,
+                            weight: 'bold'
+                        },
+                        padding: {
+                            top: 10,
+                            bottom: 30
+                        }
+                    },
+                    legend: {
+                        display: true,
+                        position: 'top',
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return 'Population: ' + context.parsed.y.toLocaleString();
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Year',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Estimated Number of People',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        beginAtZero: true,
+                        ticks: {
+                            callback: function(value) {
+                                return value.toLocaleString();
+                            }
+                        },
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    }
+                }
+            }
+        };
+
+        const chart = new Chart(ctx, config);
+    </script>
+</body>
+</html>
