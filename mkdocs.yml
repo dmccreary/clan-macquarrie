@@ -1,4 +1,4 @@
-site_name: Clan MaaQuarrie
+site_name: Clan MacQuarrie
 site_description: 'A website for the Clan MacQuarrie with a focus on education on the history of the Scottish clan system.'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
@@ -25,10 +25,9 @@ nav:
     - Population of Ulva: sims/population-of-ulva/index.md
     - Surname Population Estimates: sims/surname-population/index.md
   - FAQ: faq.md
-  - Resources:
-    - Glossary: glossary.md
-    - How We Built This Site: how-we-built-this-site.md
-    - References: references.md
+  - Glossary: glossary.md
+  - How We Built This Site: how-we-built-this-site.md
+  - References: references.md
   - Prompts:
     - Introduction: prompts/index.md
     - Personas: prompts/personas.md
