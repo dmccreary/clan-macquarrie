@@ -66,6 +66,40 @@ By the time of the famous Johnson and Boswell visit in 1773, more accurate maps 
 
 Modern maps reveal what the MacQuarries knew intimately: Ulva sits in a strategic position. To the west lies the open Atlantic Ocean, while to the east, the Sound of Mull provides a more sheltered waterway connecting to the mainland port of Oban. This positioning made Ulva both exposed to Atlantic storms and connected to important maritime trade routes.
 
+### Population Estimate
+
+Here table showing the estimated population of Ulva from 1000 to present day. Based on historical records, Ulva experienced significant population changes, with its peak in the late 1700s before the Highland Clearances devastated the island's community.
+
+| Year | Estimated Population | Notes |
+|------|---------------------|-------|
+| 1000 | 50-100 | Early medieval settlement, small subsistence community |
+| 1200 | 100-150 | Growth under Norse-Gaelic influence |
+| 1400 | 150-200 | Clan MacQuarrie established on Ulva |
+| 1500 | 200-250 | Stable clan society, agriculture and fishing |
+| 1600 | 250-300 | Continued growth under MacQuarrie chiefs |
+| 1700 | 400-500 | Expansion during relatively peaceful period |
+| 1750 | 500-600 | Approaching peak population |
+| 1780 | 600-850 | **Peak population** - height of settlement |
+| 1794 | 500-600 | Beginning of decline; MacQuarrie chief sells Ulva |
+| 1800 | 400-500 | Early clearances begin |
+| 1825 | 300-400 | Clearances intensify |
+| 1850 | 200-300 | Major depopulation during potato famine |
+| 1875 | 150-200 | Continued emigration |
+| 1900 | 100-150 | Reduced to fraction of peak |
+| 1950 | 30-50 | Post-war decline continues |
+| 1975 | 15-20 | Near abandonment |
+| 2000 | 10-16 | Minimal permanent population |
+| 2025 | 5-10 | Handful of residents, some seasonal occupation |
+
+**Key Historical Events Affecting Population:**
+
+- **1794**: Sale of Ulva by last MacQuarrie chief marked beginning of decline
+- **1846-1857**: Highland Potato Famine caused starvation and mass emigration
+- **19th century**: Highland Clearances forcibly removed families for sheep farming
+- **20th century**: Rural depopulation continued as economic opportunities disappeared
+
+The island went from a thriving community of 600-850 people at its late 18th-century peak to fewer than 10 permanent residents today, representing one of the most dramatic population collapses in Scottish Highland history.
+
 ### Geology
 ![](./fingals-cave.jpg)
 

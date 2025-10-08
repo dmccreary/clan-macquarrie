@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ulva Population Timeline</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            background: linear-gradient(135deg, #e0f2fe 0%, #dcfce7 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #1f2937;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #6b7280;
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: 500px;
+            margin: 30px 0;
+        }
+        .info-box {
+            background: #eff6ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .info-box h3 {
+            font-size: 1.2rem;
+            color: #1f2937;
+            margin-bottom: 15px;
+        }
+        .info-box ul {
+            list-style: none;
+            color: #374151;
+        }
+        .info-box li {
+            padding: 5px 0;
+            font-size: 0.95rem;
+        }
+        .info-box strong {
+            color: #1e40af;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Population of Ulva Island</h1>
+        <div class="subtitle">1000 CE - Present Day</div>
+        
+        <div class="chart-container">
+            <canvas id="populationChart"></canvas>
+        </div>
+
+        <div class="info-box">
+            <h3>Key Historical Events:</h3>
+            <ul>
+                <li>• <strong>1780:</strong> Peak population of ~725 people</li>
+                <li>• <strong>1794:</strong> Last MacQuarrie chief sells Ulva, beginning decline</li>
+                <li>• <strong>1846-1857:</strong> Highland Potato Famine causes mass emigration</li>
+                <li>• <strong>19th century:</strong> Highland Clearances devastate the community</li>
+                <li>• <strong>Present:</strong> Fewer than 10 permanent residents remain</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const data = [
+            { year: 1000, population: 75, notes: "Early medieval settlement, small subsistence community" },
+            { year: 1200, population: 125, notes: "Growth under Norse-Gaelic influence" },
+            { year: 1400, population: 175, notes: "Clan MacQuarrie established on Ulva" },
+            { year: 1500, population: 225, notes: "Stable clan society, agriculture and fishing" },
+            { year: 1600, population: 275, notes: "Continued growth under MacQuarrie chiefs" },
+            { year: 1700, population: 450, notes: "Expansion during relatively peaceful period" },
+            { year: 1750, population: 550, notes: "Approaching peak population" },
+            { year: 1780, population: 725, notes: "PEAK POPULATION - height of settlement" },
+            { year: 1794, population: 550, notes: "Beginning of decline; MacQuarrie chief sells Ulva" },
+            { year: 1800, population: 450, notes: "Early clearances begin" },
+            { year: 1825, population: 350, notes: "Clearances intensify" },
+            { year: 1850, population: 250, notes: "Major depopulation during potato famine" },
+            { year: 1875, population: 175, notes: "Continued emigration" },
+            { year: 1900, population: 125, notes: "Reduced to fraction of peak" },
+            { year: 1950, population: 40, notes: "Post-war decline continues" },
+            { year: 1975, population: 18, notes: "Near abandonment" },
+            { year: 2000, population: 13, notes: "Minimal permanent population" },
+            { year: 2025, population: 8, notes: "Handful of residents, some seasonal occupation" }
+        ];
+
+        const ctx = document.getElementById('populationChart').getContext('2d');
+        
+        const chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: data.map(d => d.year),
+                datasets: [{
+                    label: 'Population',
+                    data: data.map(d => d.population),
+                    borderColor: '#2563eb',
+                    backgroundColor: 'rgba(37, 99, 235, 0.1)',
+                    borderWidth: 3,
+                    pointRadius: 5,
+                    pointHoverRadius: 8,
+                    pointBackgroundColor: '#2563eb',
+                    pointHoverBackgroundColor: '#1e40af',
+                    tension: 0.4,
+                    fill: true
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: {
+                    mode: 'index',
+                    intersect: false,
+                },
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: 'top',
+                        labels: {
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            },
+                            color: '#1f2937'
+                        }
+                    },
+                    tooltip: {
+                        backgroundColor: 'rgba(255, 255, 255, 0.95)',
+                        titleColor: '#1f2937',
+                        bodyColor: '#374151',
+                        borderColor: '#d1d5db',
+                        borderWidth: 2,
+                        padding: 15,
+                        displayColors: false,
+                        titleFont: {
+                            size: 16,
+                            weight: 'bold'
+                        },
+                        bodyFont: {
+                            size: 14
+                        },
+                        callbacks: {
+                            title: function(context) {
+                                return 'Year: ' + context[0].label;
+                            },
+                            label: function(context) {
+                                return 'Population: ' + context.parsed.y;
+                            },
+                            afterLabel: function(context) {
+                                const dataPoint = data[context.dataIndex];
+                                return '\n' + dataPoint.notes;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Year',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            },
+                            color: '#1f2937'
+                        },
+                        grid: {
+                            color: '#e5e7eb'
+                        },
+                        ticks: {
+                            color: '#374151'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Population',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            },
+                            color: '#1f2937'
+                        },
+                        beginAtZero: true,
+                        grid: {
+                            color: '#e5e7eb'
+                        },
+                        ticks: {
+                            color: '#374151'
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
