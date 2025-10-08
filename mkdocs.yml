@@ -19,10 +19,16 @@ nav:
     - Education: content/06-education/index.md
     - Research and Archives: content/07-research-and-archives/index.md
     - Modern Activities: content/08-activities/index.md
+  - FAQ: faq.md
   - Resources:
     - Glossary: glossary.md
     - How We Built This Site: how-we-built-this-site.md
     - References: references.md
+  - Prompts:
+    - Introduction: prompts/index.md
+    - Personas: prompts/personas.md
+    - Content Structure: prompts/content-structure.md  
+  - License: license.md
   - Contact: contact.md
  
 # Dan's Microsite Standards from here down
