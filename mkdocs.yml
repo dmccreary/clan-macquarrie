@@ -1,0 +1,67 @@
+site_name: Clan MaaQuarrie
+site_description: 'A website for the Clan MacQuarrie with a focus on education on the history of the Scottish clan system.'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+site_url: 'https://dmccreary.github.io/clan-macquarrie/'
+repo_url: 'https://github.com/dmccreary/clan-macquarrie'
+edit_uri: 'blob/master/docs'
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Chapters:
+    - Clan History: content/01-clan-history/index.md
+    - Family History Research: content/02-family-history-research/index.md
+    - Visiting Scotland: content/03-visit-scotland/index.md
+    - Land and Environment: content/04-land-environment/index.md
+    - Identity and Symbols: content/05-identity-symbols/index.md
+    - Education: content/06-education/index.md
+    - Research and Archives: content/07-research-archives/index.md
+    - Modern Activities: content/08-activities/index.md
+  - Resources:
+  - Glossary: glossary.md
+  - How We Built This Site: how-we-built-this-site.md
+  - References: references.md
+  - Contact: contact.md
+ 
+# CoderDojo Microsite Standards from here down
+
+theme:
+  name: material
+  extra_css:
+    - styles/custom.css
+  logo: img/logo.png
+  # favicon: img/my-icon.png
+  palette:
+    primary: 'blue'
+    accent: 'orange'
+  include_sidebar: true
+  features:
+    - content.code.copy
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    # this adds the prev and next icons in the footer
+    - navigation.footer
+    - content.action.edit
+plugins:
+  - search
+#  - social
+markdown_extensions:
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.highlight:
+      linenums: true
+extra_css:
+   - css/extra.css
+#extra:
+#  analytics:
+#    provider: google
+    # https://analytics.google.com/analytics/web/#/a1420179p349994530/admin/streams/table/4433129821
+#    property: G-XXXX
