@@ -123,9 +123,9 @@ The costs are higher because you're going to remote places with limited tourism 
 
 If you're traveling with family members or want to connect with other MacQuarrie descendants, group tours can be both economical and meaningful. Several organizations specialize in heritage tourism to the Highlands and Islands:
 
-**Rabbie's Tours** (rabbies.com) - Offers small-group day trips from Edinburgh and Glasgow to various Highland destinations, including Mull. They use small buses (16 passengers maximum) and knowledgeable guides.
+**Rabbie's Tours** ([rabbies.com](https://rabbies.com)) - Offers small-group day trips from Edinburgh and Glasgow to various Highland destinations, including Mull. They use small buses (16 passengers maximum) and knowledgeable guides.
 
-**Highland Explorer Tours** (highlandexplorertours.com) - Provides customized tours for families and groups interested in clan heritage. They can create itineraries focused on specific clan sites.
+**Highland Explorer Tours** ([highlandexplorertours.com](https://highlandexplorertours.com)) - Provides customized tours for families and groups interested in clan heritage. They can create itineraries focused on specific clan sites.
 
 **Clan Heritage Tours** - Some clan societies, including MacQuarrie organizations, occasionally organize group heritage tours. Check with the Clan MacQuarrie Society International for upcoming trips.
 
@@ -183,25 +183,25 @@ Because ferry schedules, road conditions, and tour availability change seasonall
 
 **Transportation**:
 
-- CalMac Ferries: calmac.co.uk (essential for all ferry bookings and schedules)
-- Ulva Ferry: ulva.scot (information about the small ferry to Ulva)
-- Traveline Scotland: travelinescotland.com (public transportation planning)
-- Traffic Scotland: traffic.gov.scot (road conditions and closures)
+- CalMac Ferries: [calmac.co.uk](https://calmac.co.uk) (essential for all ferry bookings and schedules)
+- Ulva Ferry: [ulva.scot](https://ulva.scot) (information about the small ferry to Ulva)
+- Traveline Scotland: [travelinescotland.com](https://travelinescotland.com) (public transportation planning)
+- Traffic Scotland: [traffic.gov.scot](https://traffic.gov.scot) (road conditions and closures)
 
 **Destination Information**:
 
-- Isle of Mull: isle-of-mull.net (official tourism site)
-- Ulva: ulva.scot (includes visitor information and history)
-- VisitScotland: visitscotland.com (national tourism site with planning resources)
+- Isle of Mull: [isle-of-mull.net](https://isle-of-mull.net) (official tourism site)
+- Ulva: [ulva.scot](https://ulva.scot) (includes visitor information and history)
+- VisitScotland: [visitscotland.com](https://visitscotland.com) (national tourism site with planning resources)
 
 **Weather**:
 
-- Met Office: metoffice.gov.uk (most reliable weather forecasts)
-- Mountain Weather Information Service: mwis.org.uk (detailed forecasts for outdoor activities)
+- Met Office: [metoffice.gov.uk](https://metoffice.gov.uk) (most reliable weather forecasts)
+- Mountain Weather Information Service: [mwis.org.uk](https://mwis.org.uk) (detailed forecasts for outdoor activities)
 
 **Accommodation**:
 
-- Mull Accommodation Guide: isle-of-mull.net/accommodation
+- Mull Accommodation Guide: [isle-of-mull.net/accommodation](https://isle-of-mull.net/accommodation)
 - Booking.com, Airbnb (usual booking platforms work here)
 
 **Save these websites to your phone before you travel**, as internet connectivity can be limited on the islands.
@@ -532,7 +532,7 @@ To get the most from your heritage visit, consider these tour options:
 - Based on Mull, offering various island tours
 - Can customize tours emphasizing MacQuarrie heritage
 - Guides with local knowledge
-- Contact: www.mullandionatours.com
+- Contact: [www.mullandionatours.com](https://www.mullandionatours.com)
 
 **Hebridean Island Cruises**:
 
@@ -562,7 +562,7 @@ If you prefer exploring independently:
 
 - Marked trail covering main historical sites
 - 4-6 miles, allow 2-4 hours
-- Downloadable map available at ulva.scot
+- Downloadable map available at [ulva.scot](https://ulva.scot)
 - Passes settlement ruins, chief's residence area, and Kildavie Church
 - Moderate difficulty, some steep sections
 
@@ -611,7 +611,7 @@ Not everyone can make the journey to Scotland. Fortunately, several digital reso
 - National Museum of Scotland (Edinburgh) offers virtual galleries
 - Some exhibits feature Highland life and clan history
 - Free, accessible from anywhere
-- Visit: www.nms.ac.uk
+- Visit: [www.nms.ac.uk](https://www.nms.ac.uk)
 
 **Clan Websites**:
 
@@ -797,7 +797,7 @@ Skye provides a "practice run" for Hebridean island experiences. It's easier to 
 - Photographs, documents, oral histories
 - Search for "MacQuarrie" or "Ulva"
 - Free access
-- www.ambaile.org.uk
+- [www.ambaile.org.uk](https://www.ambaile.org.uk)
 
 ### Sites of Famous Battles - The Battle of Culloden
 
@@ -1114,7 +1114,7 @@ Visiting MacQuarrie heritage sites, especially Ulva, presents significant access
 
 **Resources**:
 
-- **Euan's Guide** (euansguide.com): disabled access reviews of UK attractions
+- **Euan's Guide** ([euansguide.com](https://euansguide.com)): disabled access reviews of UK attractions
 - **VisitScotland's Accessibility Page**: information about accessible tourism
 - **Tourism for All**: UK organization with accessibility travel advice
 
