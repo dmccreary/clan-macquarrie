@@ -50,7 +50,8 @@ authoritative websites.
 -->
 
 
-**Disclaimer** - this site is not guaranteed to be up-to-date. Always check authoritative websites.
+!!! Warning
+    This site is not guaranteed to be up-to-date. Always check authoritative websites for current prices and schedules.
 
 Imagine standing on the rocky shores of a small Scottish island, looking out over the same waters your ancestors sailed centuries ago. For MacQuarrie descendants, visiting Scotland isn't just a vacation—it's a journey into your family's past. This chapter will help you plan a meaningful trip to explore your clan heritage, whether you're visiting the ancestral homeland of Ulva or exploring other significant sites across Scotland.
 
@@ -123,7 +124,10 @@ The costs are higher because you're going to remote places with limited tourism 
 
 If you're traveling with family members or want to connect with other MacQuarrie descendants, group tours can be both economical and meaningful. Several organizations specialize in heritage tourism to the Highlands and Islands:
 
-**Rabbie's Tours** ([rabbies.com](https://rabbies.com)) - Offers small-group day trips from Edinburgh and Glasgow to various Highland destinations, including Mull. They use small buses (16 passengers maximum) and knowledgeable guides.
+**Best Scottish Tours** [https://www.best-scottish-tours.co.uk](https://www.best-scottish-tours.co.uk/) - Offers small-group tours customized to your groups needs.  They can craft a customized all inclusive tour package that’s tailored to your groups interests.
+
+
+**Rabbie's Tours** [rabbies.com](https://rabbies.com) - Offers small-group day trips from Edinburgh and Glasgow to various Highland destinations, including Mull. They use small buses (16 passengers maximum) and knowledgeable guides.
 
 **Highland Explorer Tours** ([highlandexplorertours.com](https://highlandexplorertours.com)) - Provides customized tours for families and groups interested in clan heritage. They can create itineraries focused on specific clan sites.
 
