@@ -14,7 +14,7 @@ Test your knowledge about Clan MacQuarrie! This quiz covers the history, culture
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **2**. The name MacQuarrie comes from the Gaelic "Mac Guaire," which means "son of Guaire" or "son of the proud one." The personal name Guaire derives from an ancient Gaelic word meaning "noble" or "proud."
+      The correct answer is **X**. [Detailed explanation of the answer]
 
 #### How many documented spelling variations are there of the name MacQuarrie?
 

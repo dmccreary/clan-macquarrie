@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MacQuarrie Clan Diaspora Journey Map</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- React and ReactDOM -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    
+    <!-- Babel Standalone for JSX -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        // Lucide React icons as inline SVG components
+        const Play = ({ size = 24 }) => (
+            <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <polygon points="5 3 19 12 5 21 5 3"></polygon>
+            </svg>
+        );
+
+        const Pause = ({ size = 24 }) => (
+            <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="6" y="4" width="4" height="16"></rect>
+                <rect x="14" y="4" width="4" height="16"></rect>
+            </svg>
+        );
+
+        const RotateCcw = ({ size = 24 }) => (
+            <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="1 4 1 10 7 10"></polyline>
+                <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path>
+            </svg>
+        );
+
+        const MacQuarrieDiasporaMap = () => {
+            const [isAnimating, setIsAnimating] = useState(false);
+            const [currentPhase, setCurrentPhase] = useState(0);
+            const [activeSettlement, setActiveSettlement] = useState(null);
+
+            // Key locations with coordinates
+            const locations = {
+                ulva: { x: 365, y: 180, name: "Ulva, Scotland", label: "Ancestral Home" },
+                australia: { x: 780, y: 420, name: "Australia", label: "Major Settlement" },
+                canada: { x: 180, y: 160, name: "Canada", label: "Highland Communities" },
+                usa: { x: 200, y: 240, name: "United States", label: "Eastern Seaboard" },
+                newzealand: { x: 850, y: 460, name: "New Zealand", label: "South Pacific" }
+            };
+
+            // Migration waves
+            const migrationPhases = [
+                {
+                    period: "1794-1820s",
+                    title: "Loss of Ulva & Early Emigration",
+                    description: "After selling Ulva in 1794, MacQuarries begin leaving Scotland. Lachlan MacQuarrie serves in India then becomes Governor of New South Wales (1809-1821).",
+                    routes: [
+                        { from: "ulva", to: "australia", color: "#D4AF37", delay: 0 }
+                    ]
+                },
+                {
+                    period: "1830s-1850s",
+                    title: "Highland Clearances & Mass Migration",
+                    description: "Peak emigration as Highland Clearances and Potato Famine force families to seek new lives across the British Empire and North America.",
+                    routes: [
+                        { from: "ulva", to: "canada", color: "#E63946", delay: 0 },
+                        { from: "ulva", to: "usa", color: "#457B9D", delay: 300 },
+                        { from: "ulva", to: "australia", color: "#D4AF37", delay: 600 },
+                        { from: "ulva", to: "newzealand", color: "#2A9D8F", delay: 900 }
+                    ]
+                },
+                {
+                    period: "1860s-1900s",
+                    title: "Established Communities",
+                    description: "MacQuarrie descendants prosper in new lands, establishing farms, businesses, and communities while maintaining clan identity.",
+                    routes: [
+                        { from: "ulva", to: "australia", color: "#D4AF37", delay: 0 },
+                        { from: "ulva", to: "canada", color: "#E63946", delay: 200 },
+                        { from: "ulva", to: "usa", color: "#457B9D", delay: 400 }
+                    ]
+                },
+                {
+                    period: "1920s-Present",
+                    title: "Global Clan Network",
+                    description: "MacQuarrie Clan Societies form, connecting descendants worldwide. Regular gatherings and digital platforms maintain cultural heritage.",
+                    routes: [
+                        { from: "ulva", to: "australia", color: "#D4AF37", delay: 0 },
+                        { from: "ulva", to: "canada", color: "#E63946", delay: 100 },
+                        { from: "ulva", to: "usa", color: "#457B9D", delay: 200 },
+                        { from: "ulva", to: "newzealand", color: "#2A9D8F", delay: 300 }
+                    ]
+                }
+            ];
+
+            // Settlement stories
+            const settlements = {
+                australia: {
+                    story: "Led by Governor Lachlan MacQuarrie (1809-1821), 'Father of Australia,' who transformed the penal colony into a thriving settlement. Major communities in Sydney, Victoria, and Queensland.",
+                    notable: "Macquarie University, Macquarie Street, Lake Macquarie"
+                },
+                canada: {
+                    story: "Highland emigrants settled in Nova Scotia, Ontario, and later western provinces. Maintained Gaelic language and traditions longer than other communities.",
+                    notable: "Cape Breton Island, Glengarry County, Prince Edward Island"
+                },
+                usa: {
+                    story: "Settled primarily in North Carolina, New York, and later California. Contributed to frontier expansion and American Revolution descendants served in later conflicts.",
+                    notable: "North Carolina Highlands, New York State settlements"
+                },
+                newzealand: {
+                    story: "Later wave of Highland emigrants in 1860s-1880s. Established sheep stations and farming communities in South Island, maintaining strong Scottish identity.",
+                    notable: "Otago, Canterbury regions"
+                }
+            };
+
+            useEffect(() => {
+                if (isAnimating) {
+                    const timer = setTimeout(() => {
+                        setCurrentPhase((prev) => {
+                            if (prev < migrationPhases.length - 1) {
+                                return prev + 1;
+                            } else {
+                                setIsAnimating(false);
+                                return prev;
+                            }
+                        });
+                    }, 4000);
+                    return () => clearTimeout(timer);
+                }
+            }, [isAnimating, currentPhase]);
+
+            const handlePlayPause = () => {
+                setIsAnimating(!isAnimating);
+            };
+
+            const handleReset = () => {
+                setIsAnimating(false);
+                setCurrentPhase(0);
+            };
+
+            const currentMigration = migrationPhases[currentPhase];
+
+            return (
+                <div className="w-full h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 p-6 overflow-hidden">
+                    {/* Header */}
+                    <div className="text-center mb-6">
+                        <h1 className="text-4xl font-bold text-amber-400 mb-2">MacQuarrie Clan Diaspora</h1>
+                        <p className="text-slate-300 text-lg">From the Isle of Ulva to the Four Corners of the World</p>
+                    </div>
+
+                    <div className="flex gap-6 h-[calc(100%-120px)]">
+                        {/* Map Container */}
+                        <div className="flex-1 bg-slate-800 rounded-lg shadow-2xl border-2 border-amber-600 relative overflow-hidden">
+                            {/* Simplified World Map SVG */}
+                            <svg viewBox="0 0 1000 600" className="w-full h-full">
+                                {/* Ocean background */}
+                                <rect width="1000" height="600" fill="#1e3a5f" />
+                                
+                                {/* Continents */}
+                                <path d="M 340 150 L 380 140 L 400 160 L 420 150 L 440 170 L 420 190 L 390 200 L 360 190 L 340 180 Z" 
+                                      fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+                                <path d="M 100 120 L 180 100 L 240 120 L 260 180 L 240 240 L 200 280 L 160 300 L 120 280 L 100 240 L 80 200 Z" 
+                                      fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+                                <path d="M 220 320 L 260 300 L 280 340 L 290 400 L 280 460 L 250 500 L 220 480 L 210 420 L 200 360 Z" 
+                                      fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+                                <path d="M 740 380 L 820 370 L 860 400 L 870 440 L 850 470 L 790 480 L 740 460 L 720 420 Z" 
+                                      fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+                                <ellipse cx="850" cy="460" rx="20" ry="35" fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+                                <path d="M 480 140 L 580 120 L 660 140 L 700 180 L 720 240 L 680 280 L 620 300 L 560 280 L 520 240 L 480 200 Z" 
+                                      fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+                                <path d="M 400 260 L 460 250 L 500 280 L 520 340 L 510 420 L 470 480 L 420 460 L 390 400 L 380 340 Z" 
+                                      fill="#2d5016" stroke="#4a7c1f" strokeWidth="1" />
+
+                                {/* Animated migration routes */}
+                                {isAnimating && currentMigration.routes.map((route, idx) => {
+                                    const from = locations[route.from];
+                                    const to = locations[route.to];
+                                    
+                                    return (
+                                        <g key={`route-${currentPhase}-${idx}`}>
+                                            <path
+                                                d={`M ${from.x} ${from.y} Q ${(from.x + to.x) / 2} ${Math.min(from.y, to.y) - 100} ${to.x} ${to.y}`}
+                                                stroke={route.color}
+                                                strokeWidth="3"
+                                                fill="none"
+                                                strokeDasharray="10,5"
+                                                opacity="0.6"
+                                            >
+                                                <animate
+                                                    attributeName="stroke-dashoffset"
+                                                    from="1000"
+                                                    to="0"
+                                                    dur="3s"
+                                                    begin={`${route.delay}ms`}
+                                                    fill="freeze"
+                                                />
+                                            </path>
+                                            
+                                            <circle r="5" fill={route.color}>
+                                                <animateMotion
+                                                    dur="3s"
+                                                    begin={`${route.delay}ms`}
+                                                    fill="freeze"
+                                                    path={`M ${from.x} ${from.y} Q ${(from.x + to.x) / 2} ${Math.min(from.y, to.y) - 100} ${to.x} ${to.y}`}
+                                                />
+                                                <animate
+                                                    attributeName="opacity"
+                                                    from="1"
+                                                    to="0"
+                                                    dur="0.5s"
+                                                    begin={`${2500 + route.delay}ms`}
+                                                    fill="freeze"
+                                                />
+                                            </circle>
+                                        </g>
+                                    );
+                                })}
+
+                                {/* Location markers */}
+                                {Object.entries(locations).map(([key, loc]) => (
+                                    <g 
+                                        key={key}
+                                        className="cursor-pointer"
+                                        onMouseEnter={() => setActiveSettlement(key)}
+                                        onMouseLeave={() => setActiveSettlement(null)}
+                                    >
+                                        <circle
+                                            cx={loc.x}
+                                            cy={loc.y}
+                                            r={key === 'ulva' ? 8 : 6}
+                                            fill={key === 'ulva' ? '#DC2626' : '#F59E0B'}
+                                            stroke={key === 'ulva' ? '#7F1D1D' : '#92400E'}
+                                            strokeWidth="2"
+                                            className="drop-shadow-lg"
+                                        />
+                                        <text
+                                            x={loc.x}
+                                            y={loc.y - 15}
+                                            textAnchor="middle"
+                                            fill="#FCD34D"
+                                            fontSize="14"
+                                            fontWeight="bold"
+                                            className="drop-shadow-md"
+                                        >
+                                            {loc.name}
+                                        </text>
+                                        <text
+                                            x={loc.x}
+                                            y={loc.y + 25}
+                                            textAnchor="middle"
+                                            fill="#D1D5DB"
+                                            fontSize="11"
+                                            fontStyle="italic"
+                                        >
+                                            {loc.label}
+                                        </text>
+                                    </g>
+                                ))}
+                            </svg>
+
+                            {/* Settlement info overlay */}
+                            {activeSettlement && settlements[activeSettlement] && (
+                                <div className="absolute bottom-6 left-6 right-6 bg-slate-900 bg-opacity-95 border-2 border-amber-500 rounded-lg p-4 shadow-2xl">
+                                    <h3 className="text-xl font-bold text-amber-400 mb-2">
+                                        {locations[activeSettlement].name}
+                                    </h3>
+                                    <p className="text-slate-200 mb-2 text-sm">
+                                        {settlements[activeSettlement].story}
+                                    </p>
+                                    <p className="text-amber-300 text-sm italic">
+                                        Notable: {settlements[activeSettlement].notable}
+                                    </p>
+                                </div>
+                            )}
+                        </div>
+
+                        {/* Control Panel */}
+                        <div className="w-96 bg-slate-800 rounded-lg shadow-2xl border-2 border-amber-600 p-6 overflow-y-auto">
+                            <div className="mb-6">
+                                <h2 className="text-2xl font-bold text-amber-400 mb-4">Migration Timeline</h2>
+                                
+                                {/* Controls */}
+                                <div className="flex gap-2 mb-6">
+                                    <button
+                                        onClick={handlePlayPause}
+                                        className="flex-1 bg-amber-600 hover:bg-amber-700 text-white px-4 py-3 rounded-lg font-semibold flex items-center justify-center gap-2 transition-colors"
+                                    >
+                                        {isAnimating ? <Pause size={20} /> : <Play size={20} />}
+                                        {isAnimating ? 'Pause' : 'Play'}
+                                    </button>
+                                    <button
+                                        onClick={handleReset}
+                                        className="bg-slate-700 hover:bg-slate-600 text-white px-4 py-3 rounded-lg font-semibold flex items-center justify-center gap-2 transition-colors"
+                                    >
+                                        <RotateCcw size={20} />
+                                        Reset
+                                    </button>
+                                </div>
+
+                                {/* Current Phase Info */}
+                                <div className="bg-slate-900 border-2 border-amber-500 rounded-lg p-4 mb-4">
+                                    <div className="text-amber-400 font-bold text-lg mb-1">
+                                        {currentMigration.period}
+                                    </div>
+                                    <div className="text-white font-semibold mb-2">
+                                        {currentMigration.title}
+                                    </div>
+                                    <div className="text-slate-300 text-sm">
+                                        {currentMigration.description}
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Timeline phases */}
+                            <div className="space-y-3">
+                                <h3 className="text-lg font-bold text-amber-400 mb-3">All Migration Waves</h3>
+                                {migrationPhases.map((phase, idx) => (
+                                    <div
+                                        key={idx}
+                                        onClick={() => {
+                                            setCurrentPhase(idx);
+                                            setIsAnimating(false);
+                                        }}
+                                        className={`p-3 rounded-lg cursor-pointer transition-all ${
+                                            currentPhase === idx
+                                                ? 'bg-amber-600 text-white'
+                                                : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
+                                        }`}
+                                    >
+                                        <div className="font-bold text-sm">{phase.period}</div>
+                                        <div className="text-xs mt-1">{phase.title}</div>
+                                    </div>
+                                ))}
+                            </div>
+
+                            {/* Legend */}
+                            <div className="mt-6 pt-6 border-t-2 border-slate-700">
+                                <h3 className="text-lg font-bold text-amber-400 mb-3">Legend</h3>
+                                <div className="space-y-2 text-sm">
+                                    <div className="flex items-center gap-2">
+                                        <div className="w-4 h-4 rounded-full bg-red-600 border-2 border-red-900"></div>
+                                        <span className="text-slate-300">Ulva - Ancestral Home</span>
+                                    </div>
+                                    <div className="flex items-center gap-2">
+                                        <div className="w-4 h-4 rounded-full bg-amber-500 border-2 border-amber-900"></div>
+                                        <span className="text-slate-300">Settlement Regions</span>
+                                    </div>
+                                    <div className="flex items-center gap-2">
+                                        <div className="w-12 h-0.5 bg-gradient-to-r from-amber-500 to-transparent"></div>
+                                        <span className="text-slate-300">Migration Routes</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Stats */}
+                            <div className="mt-6 pt-6 border-t-2 border-slate-700">
+                                <h3 className="text-lg font-bold text-amber-400 mb-3">Diaspora Impact</h3>
+                                <div className="grid grid-cols-2 gap-3 text-sm">
+                                    <div className="bg-slate-900 p-3 rounded-lg border border-slate-700">
+                                        <div className="text-amber-300 font-bold">1794</div>
+                                        <div className="text-slate-400 text-xs">Loss of Ulva</div>
+                                    </div>
+                                    <div className="bg-slate-900 p-3 rounded-lg border border-slate-700">
+                                        <div className="text-amber-300 font-bold">4+</div>
+                                        <div className="text-slate-400 text-xs">Continents</div>
+                                    </div>
+                                    <div className="bg-slate-900 p-3 rounded-lg border border-slate-700">
+                                        <div className="text-amber-300 font-bold">230+</div>
+                                        <div className="text-slate-400 text-xs">Years of History</div>
+                                    </div>
+                                    <div className="bg-slate-900 p-3 rounded-lg border border-slate-700">
+                                        <div className="text-amber-300 font-bold">1000s</div>
+                                        <div className="text-slate-400 text-xs">Descendants</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            );
+        };
+
+        // Render the app
+        ReactDOM.render(<MacQuarrieDiasporaMap />, document.getElementById('root'));
+    </script>
+</body>
+</html>

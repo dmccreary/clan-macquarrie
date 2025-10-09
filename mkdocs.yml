@@ -19,11 +19,14 @@ nav:
     - Education: content/06-education/index.md
     - Research and Archives: content/07-research-and-archives/index.md
     - Modern Activities: content/08-activities/index.md
+    - The McCreary vs MacQuarrie Surname: content/09-mccreary-vs-macquarrie/index.md
   - Interactive Apps:
     - List if Apps: sims/index.md
     - Timeline Viewer: sims/timeline-viewer/index.md
     - Population of Ulva: sims/population-of-ulva/index.md
     - Surname Population Estimates: sims/surname-population/index.md
+    - Clan Sizes: sims/clan-sizes/index.md
+    - Migration Patterns: sims/migration/index.md
   - FAQ: faq.md
   - Quiz: quiz.md
   - Glossary: glossary.md

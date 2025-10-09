@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scottish Clan Sizes Around 1745</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+            color: #c9a961;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .subtitle {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #a8a8a8;
+            font-style: italic;
+        }
+        
+        .chart-container {
+            position: relative;
+            width: 100%;
+            margin-top: 20px;
+        }
+        
+        .bar-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            position: relative;
+        }
+        
+        .clan-name {
+            width: 220px;
+            text-align: right;
+            padding-right: 15px;
+            font-weight: 600;
+            font-size: 14px;
+            color: #e0e0e0;
+        }
+        
+        .bar-wrapper {
+            flex: 1;
+            position: relative;
+            height: 32px;
+        }
+        
+        .bar {
+            height: 100%;
+            background: linear-gradient(90deg, #8b2635 0%, #c9a961 100%);
+            border-radius: 0 5px 5px 0;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        .bar:hover {
+            filter: brightness(1.2);
+            transform: scaleY(1.1);
+            box-shadow: 0 4px 8px rgba(201, 169, 97, 0.4);
+        }
+        
+        .bar-label {
+            position: absolute;
+            right: -50px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 13px;
+            font-weight: bold;
+            color: #c9a961;
+            white-space: nowrap;
+        }
+        
+        .macquarrie .bar {
+            background: linear-gradient(90deg, #8b4513 0%, #d4af37 100%);
+        }
+        
+        .tooltip {
+            position: fixed;
+            background: rgba(20, 20, 30, 0.95);
+            border: 2px solid #c9a961;
+            border-radius: 8px;
+            padding: 12px 16px;
+            max-width: 350px;
+            font-size: 14px;
+            line-height: 1.5;
+            pointer-events: none;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+        }
+        
+        .tooltip.show {
+            display: block;
+        }
+        
+        .tooltip-clan {
+            font-weight: bold;
+            color: #c9a961;
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        
+        .legend {
+            margin-top: 30px;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            font-size: 13px;
+            line-height: 1.8;
+        }
+        
+        .legend-title {
+            font-weight: bold;
+            color: #c9a961;
+            margin-bottom: 10px;
+        }
+        
+        .highlight {
+            color: #d4af37;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Scottish Clan Sizes Around 1745</h1>
+        <p class="subtitle">Estimated Fighting Men Before the Battle of Culloden (April 16, 1746)</p>
+        
+        <div class="chart-container" id="chart"></div>
+        
+        <div class="legend">
+            <div class="legend-title">Notes:</div>
+            <p><strong>Fighting Men</strong> refers to the number of warriors a clan could field for battle, not total population. Total clan population would typically be 4-5 times this number.</p>
+            <p><span class="highlight">Clan MacQuarrie</span> is highlighted in gold. Hover over any bar to see detailed notes about that clan.</p>
+            <p>The Battle of Culloden on April 16, 1746, marked the end of the Jacobite Rising and had devastating consequences for the Highland clan system.</p>
+        </div>
+    </div>
+    
+    <div class="tooltip" id="tooltip">
+        <div class="tooltip-clan" id="tooltipClan"></div>
+        <div id="tooltipNote"></div>
+    </div>
+
+    <script>
+        const clans = [
+            { name: "Clan Campbell", men: 5000, note: "The largest clan, fought for the Government/Hanoverian side" },
+            { name: "Clan Murray (Atholl)", men: 3000, note: "One of the largest clans, controlled extensive territories in Atholl" },
+            { name: "Clan MacKenzie", men: 2000, note: "Major Highland clan, though divided in loyalties" },
+            { name: "Clan MacDonald (combined)", men: 1750, note: "Combined strength of Clanranald (700), Glengarry (500), Keppoch (150), Glencoe (150), Sleat (700)" },
+            { name: "Clan Grant", men: 950, note: "Glenmoriston (100) + Strathspey (850), mostly Hanoverian" },
+            { name: "Clan Cameron", men: 800, note: "Led by 'Gentle Lochiel,' strong Jacobite supporters" },
+            { name: "Clan Mackintosh/Chattan", men: 800, note: "Divided loyalties between chief and clansmen" },
+            { name: "Clan Fraser of Lovat", men: 700, note: "Led by Simon Fraser 'The Fox'" },
+            { name: "Clan Sutherland", men: 700, note: "Government supporters" },
+            { name: "Clan MacLeod", men: 700, note: "Mostly Government supporters" },
+            { name: "Clan MacLean", men: 500, note: "Jacobite supporters" },
+            { name: "Clan MacGregor", men: 500, note: "Jacobite supporters, led by descendants of Rob Roy" },
+            { name: "Clan Farquharson", men: 500, note: "Fought in center at Culloden" },
+            { name: "Clan Gordon", men: 300, note: "Divided between Jacobite and Hanoverian sides" },
+            { name: "Clan Stewart (Appin)", men: 300, note: "Strong Jacobite supporters" },
+            { name: "Clan Menzies", men: 300, note: "Mostly Jacobite despite chief's neutrality" },
+            { name: "Clan Drummond", men: 300, note: "Jacobite supporters" },
+            { name: "Clan MacPherson", men: 300, note: "Arrived too late for Culloden" },
+            { name: "Clan Chisholm", men: 200, note: "Jacobite supporters, heavy casualties" },
+            { name: "Clan MacLachlan", men: 200, note: "Jacobite supporters, chief killed at Culloden" },
+            { name: "Clan Robertson (Struan)", men: 200, note: "Jacobite supporters" },
+            { name: "Clan Stewart (Atholl)", men: 200, note: "Jacobite supporters" },
+            { name: "Clan MacKinnon", men: 200, note: "Jacobite supporters" },
+            { name: "Clan MacQuarrie", men: 125, note: "Jacobite supporters, Chief Allan MacQuarrie died shortly after Culloden. This marked the beginning of the clan's decline, with the last chief selling the ancestral island of Ulva in 1794 due to financial pressures.", highlight: true }
+        ];
+
+        const maxMen = Math.max(...clans.map(c => c.men));
+        const chartContainer = document.getElementById('chart');
+        const tooltip = document.getElementById('tooltip');
+        const tooltipClan = document.getElementById('tooltipClan');
+        const tooltipNote = document.getElementById('tooltipNote');
+
+        clans.forEach(clan => {
+            const barItem = document.createElement('div');
+            barItem.className = 'bar-item' + (clan.highlight ? ' macquarrie' : '');
+            
+            const clanName = document.createElement('div');
+            clanName.className = 'clan-name';
+            clanName.textContent = clan.name;
+            
+            const barWrapper = document.createElement('div');
+            barWrapper.className = 'bar-wrapper';
+            
+            const bar = document.createElement('div');
+            bar.className = 'bar';
+            const widthPercent = (clan.men / maxMen) * 100;
+            bar.style.width = widthPercent + '%';
+            
+            const barLabel = document.createElement('div');
+            barLabel.className = 'bar-label';
+            barLabel.textContent = clan.men.toLocaleString();
+            
+            bar.appendChild(barLabel);
+            barWrapper.appendChild(bar);
+            
+            barItem.appendChild(clanName);
+            barItem.appendChild(barWrapper);
+            chartContainer.appendChild(barItem);
+            
+            bar.addEventListener('mouseenter', (e) => {
+                tooltipClan.textContent = clan.name + ' (' + clan.men.toLocaleString() + ' fighting men)';
+                tooltipNote.textContent = clan.note;
+                tooltip.classList.add('show');
+            });
+            
+            bar.addEventListener('mousemove', (e) => {
+                tooltip.style.left = (e.clientX + 15) + 'px';
+                tooltip.style.top = (e.clientY + 15) + 'px';
+            });
+            
+            bar.addEventListener('mouseleave', () => {
+                tooltip.classList.remove('show');
+            });
+        });
+    </script>
+</body>
+</html>
