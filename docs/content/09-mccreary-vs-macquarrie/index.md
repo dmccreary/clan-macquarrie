@@ -70,7 +70,7 @@ Common spelling variations of the name include: McCreary, McCreery, McCrorie, Mc
 
 The McCreary surname in Northern Ireland represents part of the Scotch-Irish (Ulster Scots) heritage—Presbyterian Lowland Scots from the Galloway region who were settled in Ulster during the Plantation period beginning in 1609. While the name sounds similar to MacQuarrie, they are distinct surnames from different regions of Scotland with different cultural backgrounds. The McCrearys became a foundational part of the Ulster Protestant community and later contributed significantly to the settlement of colonial America, particularly Pennsylvania and other Mid-Atlantic and Southern states.
 
-# The McCreary Surname from Northern Ireland: A Detailed History
+## The McCreary Surname from Northern Ireland: A Detailed History
 
 Based on comprehensive research, here's what we know about the McCreary surname and its Northern Ireland roots:
 
@@ -142,7 +142,7 @@ Common spelling variations of the name include: McCreary, McCreery, McCrorie, Mc
 
 The McCreary surname in Northern Ireland represents part of the Scotch-Irish (Ulster Scots) heritage—Presbyterian Lowland Scots from the Galloway region who were settled in Ulster during the Plantation period beginning in 1609. While the name sounds similar to MacQuarrie, they are distinct surnames from different regions of Scotland with different cultural backgrounds. The McCrearys became a foundational part of the Ulster Protestant community and later contributed significantly to the settlement of colonial America, particularly Pennsylvania and other Mid-Atlantic and Southern states.
 
-# The Ulster Plantation: A Comprehensive History
+## The Ulster Plantation: A Comprehensive History
 
 ## Background and Context
 
