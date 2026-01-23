@@ -1,0 +1,41 @@
+{
+  "title": "Clan MacQuarrie Timeline Viewer",
+  "description": "[Run the Timeline Viewer](main.html)",
+  "subject": "Mathematics",
+  "topic": "Clan MacQuarrie Timeline Viewer",
+  "gradeLevel": "6-12",
+  "bloomsTaxonomy": [
+    "Understand",
+    "Apply"
+  ],
+  "author": "Dan McCreary",
+  "dateCreated": "2026-01-23",
+  "dateModified": "2026-01-23",
+  "version": "1.0.0",
+  "license": "MIT",
+  "language": "en",
+  "format": "text/html",
+  "type": "Interactive Simulation",
+  "framework": "vanilla-js",
+  "url": "https://dmccreary.github.io/clan-macquarrie/sims/timeline-viewer/",
+  "identifier": "https://dmccreary.github.io/clan-macquarrie/sims/timeline-viewer/",
+  "_source": {
+    "repo": "clan-macquarrie",
+    "sim": "timeline-viewer",
+    "github_url": "https://github.com/dmccreary/clan-macquarrie/tree/main/docs/sims/timeline-viewer",
+    "auto_generated": true,
+    "generation_date": "2026-01-23"
+  },
+  "subjects": [
+    "Mathematics",
+    "Computer Science",
+    "Chemistry",
+    "Engineering"
+  ],
+  "visualizationType": [
+    "graph",
+    "interactive-demo",
+    "timeline",
+    "map"
+  ]
+}

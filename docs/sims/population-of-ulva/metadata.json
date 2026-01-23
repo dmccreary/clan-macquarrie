@@ -1,0 +1,39 @@
+{
+  "title": "Population of Ulva",
+  "description": "[Run the Chart](./main.html)",
+  "subject": "Mathematics",
+  "topic": "Population of Ulva",
+  "gradeLevel": "6-12",
+  "bloomsTaxonomy": [
+    "Understand",
+    "Apply"
+  ],
+  "author": "Dan McCreary",
+  "dateCreated": "2026-01-23",
+  "dateModified": "2026-01-23",
+  "version": "1.0.0",
+  "license": "MIT",
+  "language": "en",
+  "format": "text/html",
+  "type": "Interactive Simulation",
+  "framework": "chart.js",
+  "url": "https://dmccreary.github.io/clan-macquarrie/sims/population-of-ulva/",
+  "identifier": "https://dmccreary.github.io/clan-macquarrie/sims/population-of-ulva/",
+  "_source": {
+    "repo": "clan-macquarrie",
+    "sim": "population-of-ulva",
+    "github_url": "https://github.com/dmccreary/clan-macquarrie/tree/main/docs/sims/population-of-ulva",
+    "auto_generated": true,
+    "generation_date": "2026-01-23"
+  },
+  "subjects": [
+    "Mathematics",
+    "Chemistry",
+    "Engineering"
+  ],
+  "visualizationType": [
+    "chart",
+    "timeline",
+    "map"
+  ]
+}

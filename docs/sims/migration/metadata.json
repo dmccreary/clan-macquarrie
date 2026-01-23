@@ -1,0 +1,45 @@
+{
+  "title": "Migration Map",
+  "description": "[Run the Migration Application](./main.html)",
+  "subject": "Mathematics",
+  "topic": "Migration Map",
+  "gradeLevel": "6-12",
+  "bloomsTaxonomy": [
+    "Understand",
+    "Apply"
+  ],
+  "author": "Dan McCreary",
+  "dateCreated": "2026-01-23",
+  "dateModified": "2026-01-23",
+  "version": "1.0.0",
+  "license": "MIT",
+  "language": "en",
+  "format": "text/html",
+  "type": "Interactive Simulation",
+  "framework": "vanilla-js",
+  "url": "https://dmccreary.github.io/clan-macquarrie/sims/migration/",
+  "identifier": "https://dmccreary.github.io/clan-macquarrie/sims/migration/",
+  "_source": {
+    "repo": "clan-macquarrie",
+    "sim": "migration",
+    "github_url": "https://github.com/dmccreary/clan-macquarrie/tree/main/docs/sims/migration",
+    "auto_generated": true,
+    "generation_date": "2026-01-23"
+  },
+  "subjects": [
+    "Mathematics",
+    "Physics",
+    "Computer Science",
+    "Chemistry",
+    "Biology",
+    "Engineering"
+  ],
+  "visualizationType": [
+    "animation",
+    "graph",
+    "interactive-demo",
+    "network",
+    "timeline",
+    "map"
+  ]
+}
