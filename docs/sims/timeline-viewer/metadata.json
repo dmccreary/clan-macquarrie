@@ -37,5 +37,10 @@
     "interactive-demo",
     "timeline",
     "map"
+  ],
+  "learningObjectives": [
+    "Understand the mathematical concept of clan macquarrie timeline viewer",
+    "Apply clan macquarrie timeline viewer to solve problems",
+    "Visualize and interpret clan macquarrie timeline viewer relationships"
   ]
 }

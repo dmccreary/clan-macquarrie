@@ -41,5 +41,10 @@
     "network",
     "timeline",
     "map"
+  ],
+  "learningObjectives": [
+    "Understand the mathematical concept of migration map",
+    "Apply migration map to solve problems",
+    "Visualize and interpret migration map relationships"
   ]
 }
