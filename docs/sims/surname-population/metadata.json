@@ -37,5 +37,26 @@
     "Understand the mathematical concept of macquarrie surname population estimates 1400-2000",
     "Apply macquarrie surname population estimates 1400-2000 to solve problems",
     "Visualize and interpret macquarrie surname population estimates 1400-2000 relationships"
-  ]
+  ],
+  "pedagogical": {
+    "pattern": "reference",
+    "bloomAlignment": [
+      "remember",
+      "understand",
+      "apply"
+    ],
+    "bloomVerbs": [
+      "identify",
+      "explain",
+      "use"
+    ],
+    "pacing": "self-paced",
+    "supportsPrediction": true,
+    "dataVisibility": "medium",
+    "feedbackType": [
+      "immediate",
+      "explanatory"
+    ],
+    "interactionStyle": "observe"
+  }
 }
