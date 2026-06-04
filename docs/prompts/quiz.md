@@ -3,9 +3,9 @@
 We can use the FAQ question/answer pairs to create a multiple choice quiz.
 
 !!! prompt
-    Please create a new page called /docs/quiz.md that has a multiple-choice question for each of the quation/answer pairs. 
+    Please create a new page called /docs/quiz.md that has a multiple-choice question for each of the question/answer pairs in the /docs/faqs.md file.  Assume that the person taking the quiz is a 10th grade high-school student.  Make sure that the correct answers are evenly distributed in the values of A, B, C and D.
 
-Use the following format for each question
+Use the following format for each question.
 
 ~~~markdown
 #### Question Text
